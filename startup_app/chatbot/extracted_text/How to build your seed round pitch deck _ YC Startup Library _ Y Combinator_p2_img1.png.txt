@@ -1,0 +1,4 @@
+seed deck template, Inc.
+
+A template that tells you how to build a seed deck
+

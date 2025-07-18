@@ -1,0 +1,56 @@
+ 
+
+Monthly Revenue/Customer
+Support Cost/Customer
+Credit Card Fees/Customer
+Hosting Fees/Customer
+Cost of Goods Sold/Cusomer
+Gross Profit/Customer
+Customer Acquisition Cost
+Month 1 Contribution Margin
+Future Month Contribution Margin
+Average Monthly Churn
+Customer Lifetime (Months)
+
+Customer Lifetime Value
+
+  
+
+LCA
+
+Ulustrative example for a consumer subscription startup.
+
+How to Calculate
+
+$10.00
+$0.50
+$0.30
+$0.10
+$0.90
+$9.10
+$25.00
+($15.90)
+$9.10
+10%
+10
+
+$66.00
+
+ 
+
+Direct Variable Costs on a Per Customer Basis
+
+Monthly Revenue—Cost of Goods Sold
+
+Gross Profit—Customer Acquisition Cost
+
+Gross Profit (Assuming no Other Variable Costs)
+
+Customer Lifetime = 1/Average Monthly Churn
+
+Month 1 Contribution Margin + Months 2—10 Contribution Margin (Future Month)
+
+ 
+
+cise Consumer
+

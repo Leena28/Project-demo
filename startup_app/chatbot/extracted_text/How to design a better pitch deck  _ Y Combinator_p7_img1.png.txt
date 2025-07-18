@@ -1,0 +1,10 @@
+This is a much better start.
+
+Font
+
+Helvetica ky
+Bold i 150 pt
+Gum Nt a
+
+Character Styles None
+

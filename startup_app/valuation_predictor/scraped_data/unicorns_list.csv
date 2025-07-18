@@ -1,0 +1,1571 @@
+,Company,Post_money_value,Total_funding,Lead_investors,Country,Continent
+0,ByteDance,$220B,$8B,"Kohlberg Kravis Roberts Japan, Sequoia Capital",China,Asia
+1,OpenAI,$157B,$18B,Thrive Capital,United States,North America
+2,Ant Group,$150B,$19B,"GIC, Temasek Holdings",China,Asia
+3,SpaceX,$137B,$9B,Andreessen Horowitz,United States,North America
+4,Reliance Retail,$100B,$8B,Abu Dhabi Investment Authority,India,Asia
+5,Shein,$66B,$4B,"General Atlantic, HongShan",China,Asia
+6,Stripe,$65B,$9B,"Andreessen Horowitz, Baillie Gifford",United States,North America
+7,Databricks,$62B,$14B,"Andreessen Horowitz, DST Global",United States,North America
+8,Reliance Jio,$58B,$20B,Google,India,Asia
+9,xAI,$50B,$12B,X (formerly Twitter),United States,North America
+10,Revolut,$45B,$2B,Woodford Investment Management,United Kingdom,Europe
+11,Waymo,$45B,$11B,Alphabet,United States,North America
+12,Checkout.com,$40B,$2B,Tiger Global Management,United Kingdom,Europe
+13,JUUL,$38B,$15B,Altria,United States,North America
+14,Canva,$32B,$580M,Stack Capital,Australia,Oceania
+15,Fanatics,$31B,$5B,Clearlake Capital Group,United States,North America
+16,Cruise,$30B,$9B,General Motors,United States,North America
+17,Alibaba Bendi Shenghuo Fuwu Gongsi,$30B,$4B,"Alibaba Group, SoftBank Vision Fund",China,Asia
+18,Chime,$25B,$2B,Sequoia Capital Global Equities,United States,North America
+19,CoreWeave,$23B,$2B,Coatue,United States,North America
+20,Epic Games,$23B,$8B,The Walt Disney Company,United States,North America
+21,BYJU'S,$22B,$5B,Qatar Investment Authority,India,Asia
+22,Envision Group,$21B,$2B,"GIC, HongShan",China,Asia
+23,J&T Express,$20B,$5B,EWTP Arabia Capital,Indonesia,Asia
+24,FNZ,$20B,$1B,"CPP Investments, Motive Partners",United Kingdom,Europe
+25,ChangXin Memory Technologies,$19B,$5B,,China,Asia
+26,Anthropic,$18B,$10B,Google,United States,North America
+27,JD Digits,$18B,$5B,"APOFCO, CICC",China,Asia
+28,Miro,$18B,$476M,ICONIQ Growth,United States,North America
+29,Xiaohongshu,$17B,$918M,"Temasek Holdings, Tencent",China,Asia
+30,Yuanfudao,$17B,$4B,YF Capital,China,Asia
+31,Trendyol Group,$17B,$2B,"General Atlantic, SoftBank Vision Fund",Turkey,Europe
+32,Yinwang Smart Technology,$16B,$3B,Seres Group,China,Asia
+33,Discord,$15B,$979M,Dragoneer Investment Group,United States,North America
+34,Gopuff,$15B,$3B,Robert Iger,United States,North America
+35,Rapyd,$15B,$770M,"Tal Ventures, Target Global",United Kingdom,Europe
+36,Genki Forest,$15B,$721M,Temasek Holdings,China,Asia
+37,CloudKitchens,$15B,$1B,Saudi Arabia's Public Investment Fund,United States,North America
+38,Bitmain,$15B,$765M,Crimson Ventures,China,Asia
+39,GAC Aion New Energy Automobile,$14B,$3B,,China,Asia
+40,Anduril Industries,$14B,$4B,"Founders Fund, Sands Capital Ventures",United States,North America
+41,Scale AI,$14B,$2B,Accel,United States,North America
+42,Rippling,$14B,$1B,Coatue,United States,North America
+43,Plaid,$13B,$734M,Altimeter Capital,United States,North America
+44,OpenSea,$13B,$427M,"Coatue, Paradigm",United States,North America
+45,Grammarly,$13B,$400M,"Baillie Gifford, BlackRock",United States,North America
+46,Devoted Health,$13B,$2B,"Fearless Ventures, GIC",United States,North America
+47,Celonis,$13B,$2B,Qatar Investment Authority,Germany,Europe
+48,Faire,$13B,$2B,Shopify,United States,North America
+49,Figma,$13B,$749M,Durable Capital Partners,United States,North America
+50,Brex,$12B,$1B,"Greenoaks, TCV",,
+51,Infinite Reality,$12B,$3B,,United States,North America
+52,PhonePe,$12B,$3B,General Atlantic,India,Asia
+53,GoodLeap,$12B,$0,,United States,North America
+54,Biosplice Therapeutics,$12B,$778M,"aMoon Fund, Eventide",United States,North America
+55,Xingsheng Youxuan,$12B,$5B,Ontario Teachers' Pension Plan,China,Asia
+56,Wiz,$12B,$2B,SoftBank Vision Fund,Israel,Asia
+57,Deel,$12B,$679M,Coatue,United States,North America
+58,Northvolt,$12B,$4B,Caisse de Depot et Placement du Quebec,Sweden,Europe
+59,Airtable,$12B,$1B,XN,United States,North America
+60,Dunamu,$12B,$741M,IMM Investment,South Korea,Asia
+61,The Access Group,$12B,$1B,"Hg, TA Associates",United Kingdom,Europe
+62,Notion,$10B,$343M,"Coatue, Sequoia Capital",United States,North America
+63,Alchemy,$10B,$564M,"Lightspeed Venture Partners, Silver Lake",United States,North America
+64,Colossal Biosciences,$10B,$448M,"Mark Walter, Thomas Tull",United States,North America
+65,KuCoin,$10B,$180M,Susquehanna International Group (SIG),Seychelles,Africa
+66,Digital Currency Group,$10B,$0,OMERS Ventures,United States,North America
+67,Ripple,$10B,$294M,Tetragon Financial Group Limited,United States,North America
+68,Zuoyebang,$10B,$3B,"FountainVest Partners, Tiger Global Management",China,Asia
+69,Chehaoduo,$10B,$4B,"H Capital Advance, HongShan",China,Asia
+70,Talkdesk,$10B,$497M,Viking Global Investors,United States,North America
+71,Thrasio,$10B,$2B,"Advent International, Silver Lake",United States,North America
+72,Lalamove,$10B,$2B,"Hillhouse Investment, HongShan",Hong Kong,Asia
+73,Mahindra Electric Automobile,$10B,$388M,Temasek Holdings,India,Asia
+74,Gusto,$10B,$746M,Friends & Family Capital,United States,North America
+75,Navan,$9B,$1B,Greenoaks,United States,North America
+76,Tata Passenger Electric Mobility,$9B,$988M,TPG Rise Climate Fund,India,Asia
+77,N26,$9B,$2B,"Coatue, Third Point Ventures",Germany,Europe
+78,Tanium,$9B,$775M,Salesforce Ventures,United States,North America
+79,Yanolja,$9B,$2B,SoftBank Vision Fund,South Korea,Asia
+80,Perplexity,$9B,$665M,"IVP, Wayra",United States,North America
+81,VAST Data,$9B,$381M,Fidelity,United States,North America
+82,Niantic,$9B,$770M,Coatue,United States,North America
+83,HeyTea,$9B,$594M,"Coatue, Hillhouse Investment",China,Asia
+84,Octopus Energy,$9B,$3B,CPP Investments,United Kingdom,Europe
+85,EV Co,$9B,$486M,,India,Asia
+86,Ping An Healthcare Management,$9B,$1B,"SBI Group, SoftBank Vision Fund",China,Asia
+87,Kavak,$9B,$2B,General Catalyst,Mexico,North America
+88,Nuro,$9B,$2B,Tiger Global Management,United States,North America
+89,Personio,$8B,$724M,Greenoaks,Germany,Europe
+90,Bolt,$8B,$2B,"Fidelity, Sequoia Capital",Estonia,Europe
+91,Tipalti,$8B,$549M,G Squared,United States,North America
+92,The CrownX,$8B,$750M,"Alibaba Group, BPEA EQT",Vietnam,Asia
+93,DJI,$8B,$105M,Accel,China,Asia
+94,Flexport,$8B,$2B,Shopify,United States,North America
+95,Fireblocks,$8B,$1B,"D1 Capital Partners, Spark Capital",United States,North America
+96,THG Ingenuity,$8B,$2B,SoftBank,United Kingdom,Europe
+97,FalconX,$8B,$474M,"B Capital, GIC",United States,North America
+98,StarkWare Industries,$8B,$261M,"Alameda Research, Coatue",Israel,Asia
+99,Dream11,$8B,$1B,"Alpha Wave Global, D1 Capital Partners",India,Asia
+100,Caris Life Sciences,$8B,$1B,Sixth Street,United States,North America
+101,Hopin,$8B,$1B,"Altimeter Capital, Arena Holdings",United Kingdom,Europe
+102,CALB,$8B,$2B,,China,Asia
+103,AutoStore,$8B,$0,,Norway,Europe
+104,Ramp,$8B,$1B,"Founders Fund, Khosla Ventures",United States,North America
+105,Circle,$8B,$1B,Coinbase,United States,North America
+106,Leapmotor,$8B,$3B,Stellantis,China,Asia
+107,Jiedaibao,$8B,$694M,,China,Asia
+108,Dapper Labs,$8B,$613M,Coatue,Canada,North America
+109,Netskope,$8B,$1B,Morgan Stanley,United States,North America
+110,Snyk,$7B,$1B,ServiceNow,United States,North America
+111,Carta,$7B,$1B,Silver Lake,United States,North America
+112,Kakao Japan,$7B,$652M,Anchor Equity Partners,Japan,Asia
+113,Gong,$7B,$583M,Franklin Templeton,United States,North America
+114,Blockchain.com,$7B,$600M,Kingsway Capital,United Kingdom,Europe
+115,ConsenSys,$7B,$660M,ParaFi Capital,United States,North America
+116,Ro,$7B,$1B,ShawSpring Partners,United States,North America
+117,Meicai,$7B,$1B,"Hillhouse Investment, Shunwei Capital",China,Asia
+118,Constellation Automotive Group,$7B,$1B,,United Kingdom,Europe
+119,Attentive,$7B,$863M,Coatue,United States,North America
+120,Cohesity,$7B,$810M,The Carlyle Group,United States,North America
+121,The Boring Company,$7B,$908M,"Sequoia Capital, Vy Capital",United States,North America
+122,NYDIG,$7B,$1B,WestCap,United States,North America
+123,Impossible Foods,$7B,$2B,Mirae Asset,United States,North America
+124,Toss,$7B,$1B,Tonic Private Equity,South Korea,Asia
+125,1Password,$7B,$920M,ICONIQ Growth,Canada,North America
+126,Automation Anywhere,$7B,$853M,"Arctic Ventures, Mindrock Capital",United States,North America
+127,WeDoctor,$7B,$1B,"HongShan, Millennium Management",China,Asia
+128,Klarna,$7B,$4B,SoftBank Vision Fund,Sweden,Europe
+129,Ola,$7B,$4B,"Arrow Capital Partners, Axis Asset Management Company",India,Asia
+130,Ziroom,$7B,$2B,SoftBank Vision Fund,China,Asia
+131,Razorpay,$7B,$742M,"Alkeon Capital, Lone Pine Capital",India,Asia
+132,Snapdeal,$7B,$2B,Anand Piramal,India,Asia
+133,Mollie,$6B,$928M,Blackstone Group,The Netherlands,Europe
+134,CRED,$6B,$801M,GIC,India,Asia
+135,Doctolib,$6B,$815M,Eurazeo,France,Europe
+136,GTA Semiconductor,$6B,$3B,SAIC Venture Capital,China,Asia
+137,DataRobot,$6B,$1B,"Altimeter Capital, Tiger Global Management",United States,North America
+138,Upgrade,$6B,$587M,"Coatue, DST Global",United States,North America
+139,Hinge Health,$6B,$826M,"Coatue, Tiger Global Management",United States,North America
+140,Hello TransTech,$6B,$2B,"Alibaba Group, Ant Group",China,Asia
+141,Benchling,$6B,$412M,"Altimeter Capital, Franklin Templeton",United States,North America
+142,Mistral AI,$6B,$1B,"DST Global, General Catalyst",France,Europe
+143,CMC,$6B,$2B,"Alibaba Group, Tencent",China,Asia
+144,Lianjia,$6B,$1B,Vanke,China,Asia
+145,Changxin New Bridge,$6B,$2B,China Integrated Circuit Industry Investment Fund (CICF),China,Asia
+146,iCapital Network,$6B,$729M,Bank of America,United States,North America
+147,Didi Woya,$6B,$2B,Guangzhou Automobile Group,China,Asia
+148,Biocon Biologics,$6B,$632M,Serum Life Sciences,India,Asia
+149,Applied Intuition,$6B,$602M,"Elad Gil, Lux Capital",United States,North America
+150,Commure,$6B,$621M,General Catalyst,United States,North America
+151,Grafana Labs,$6B,$805M,Lightspeed Venture Partners,United States,North America
+152,Animoca Brands,$6B,$811M,Futureverse,Hong Kong,Asia
+153,Monzo,$6B,$2B,CapitalG,United Kingdom,Europe
+154,Lyra Health,$6B,$910M,Dragoneer Investment Group,United States,North America
+155,Cityblock Health,$6B,$891M,SoftBank,United States,North America
+156,Workato,$6B,$415M,Battery Ventures,United States,North America
+157,Vice Media,$6B,$1B,TPG,United States,North America
+158,Back Market,$6B,$1B,Sprints,France,Europe
+159,RELEX Solutions,$6B,$803M,BP,Finland,Europe
+160,Postman,$6B,$433M,Insight Partners,United States,North America
+161,Fivetran,$6B,$728M,Andreessen Horowitz,United States,North America
+162,Contentsquare,$6B,$1B,Sixth Street,France,Europe
+163,SandboxAQ,$6B,$800M,,United States,North America
+164,SVOLT,$6B,$3B,Bank of China Group Investment,China,Asia
+165,Mambu,$6B,$448M,EQT,Germany,Europe
+166,Airwallex,$6B,$902M,"HongShan, Square Peg Capital",Australia,Oceania
+167,Vuori,$6B,$445M,SoftBank Vision Fund,United States,North America
+168,Cohere,$6B,$935M,"Alumni Ventures, PSP Investments",Canada,North America
+169,Helion Energy,$5B,$1B,Nucor Corporation,United States,North America
+170,Vinted,$5B,$562M,EQT,Lithuania,Europe
+171,Helsing,$5B,$830M,General Catalyst,Germany,Europe
+172,Trade Republic,$5B,$1B,Ontario Teachers' Pension Plan,Germany,Europe
+173,Rappi,$5B,$2B,T. Rowe Price,Colombia,South America
+174,Sierra Space,$5B,$2B,"Kanematsu Corporation, MUFG Bank",United States,North America
+175,Quantinuum,$5B,$300M,JP Morgan Chase,United States,North America
+176,Odoo,$5B,$513M,General Atlantic,Belgium,Europe
+177,Collibra,$5B,$597M,"Sequoia Capital Global Equities, Sofina",Belgium,Europe
+178,Redwood Materials,$5B,$2B,"Capricorn Investment Group, Goldman Sachs Asset Management",United States,North America
+179,Xiaodu,$5B,$0,China Structural Reform Fund,China,Asia
+180,6sense,$5B,$426M,"Blue Owl, MSD Partners",United States,North America
+181,Oura,$5B,$348M,"Dexcom, Fidelity",Finland,Europe
+182,MTN Group Fintech,$5B,$199M,Mastercard,South Africa,Africa
+183,Abnormal Security,$5B,$534M,Wellington Management,United States,North America
+184,QuintoAndar,$5B,$755M,4equity - Media Ventures,Brazil,South America
+185,SambaNova Systems,$5B,$1B,SoftBank Vision Fund,United States,North America
+186,Pine Labs,$5B,$963M,Vitruvian Partners,India,Asia
+187,United Imaging Healthcare,$5B,$503M,SDIC Fund Management,China,Asia
+188,C6 Bank,$5B,$2B,JP Morgan Chase,Brazil,South America
+189,Hopper,$5B,$695M,Capital One Ventures,Canada,North America
+190,OfBusiness,$5B,$734M,"Alpha Wave Global, SoftBank Vision Fund",India,Asia
+191,Icertis,$5B,$291M,Silicon Valley Bank,United States,North America
+192,VerSe Innovation,$5B,$2B,"CPP Investments, Google",India,Asia
+193,Moon Active,$5B,$0,,Israel,Asia
+194,Zepz,$5B,$922M,Accel,United Kingdom,Europe
+195,WeBank,$5B,$183M,Tencent,China,Asia
+196,WeWork China,$5B,$1B,Trustbridge Partners,China,Asia
+197,Royole Corporation,$5B,$492M,Yingke Capital,China,Asia
+198,Cockroach Labs,$5B,$633M,Greenoaks,United States,North America
+199,Lenskart,$5B,$1B,Chrys Capital,India,Asia
+200,PointClickCare,$5B,$230M,Hellman & Friedman,Canada,North America
+201,ShareChat,$5B,$2B,Times Internet,India,Asia
+202,Coalition,$5B,$755M,"Allianz X, Kinetic Partners",United States,North America
+203,Zepto,$5B,$2B,Motilal Oswal Wealth,India,Asia
+204,Safe Superintelligence,$5B,$1B,,United States,North America
+205,DataDirect Networks,$5B,$310M,Blackstone Group,United States,North America
+206,Neuralink,$5B,$686M,Founders Fund,United States,North America
+207,Whatnot,$5B,$750M,"avra, DST Global",United States,North America
+208,Sunwoda Electric Vehicle Battery,$5B,$2B,"GAC Group, Li Auto",China,Asia
+209,Mynt,$5B,$475M,"Bow Wave Capital Management, Insight Partners",Philippines,Asia
+210,Reify Health,$5B,$479M,"Altimeter Capital, Coatue",United States,North America
+211,Cerebral,$5B,$462M,SoftBank Vision Fund,United States,North America
+212,Creditas,$5B,$874M,Andbank,Brazil,South America
+213,Chipone Technology,$5B,$1B,Oceanpine Capital,China,Asia
+214,Qonto,$5B,$710M,TCV,France,Europe
+215,BetterUp,$5B,$570M,"ICONIQ Growth, Lightspeed Venture Partners",United States,North America
+216,Binance.US,$5B,$200M,,United States,North America
+217,Pleo,$5B,$428M,Coatue,Denmark,Europe
+218,Sonar,$5B,$457M,"Advent International, General Catalyst",Switzerland,Europe
+219,Glean,$5B,$618M,"Altimeter, DST Global",United States,North America
+220,Checkr,$5B,$679M,Durable Capital Partners,United States,North America
+221,Color,$5B,$482M,"Kindred Ventures, T. Rowe Price",United States,North America
+222,Lendable,$5B,$286M,Ontario Teachers' Pension Plan,United Kingdom,Europe
+223,wefox,$5B,$1B,"Deutsche Bank, UniCredit",Germany,Europe
+224,iFood,$5B,$592M,"Movile, Prosus & Naspers",Brazil,South America
+225,Hugging Face,$5B,$395M,Salesforce Ventures,United States,North America
+226,Sierra,$5B,$285M,Greenoaks,United States,North America
+227,Tricentis,$5B,$2B,GTCR,United States,North America
+228,Manner,$5B,$0,ByteDance,China,Asia
+229,OneTrust,$5B,$1B,Generation Investment Management,United States,North America
+230,Socure,$5B,$647M,"Accel, T. Rowe Price",United States,North America
+231,VIPKID,$5B,$1B,Tencent,China,Asia
+232,Guild,$4B,$643M,Wellington Management,United States,North America
+233,Alan,$4B,$752M,Belfius Bank,France,Europe
+234,Zhiji Auto,$4B,$2B,Bank of China Financial Assets Investment,China,Asia
+235,Ruipeng Pet Healthcare,$4B,$37M,Nestlé Health Science,China,Asia
+236,Outreach,$4B,$489M,"PremjiInvest, Steadfast Capital Management",United States,North America
+237,Lightmatter,$4B,$822M,T. Rowe Price,United States,North America
+238,OutSystems,$4B,$802M,Kohlberg Kravis Roberts,United States,North America
+239,Sorare,$4B,$739M,SoftBank,France,Europe
+240,Arctic Wolf,$4B,$498M,Owl Rock Capital,United States,North America
+241,Voyah,$4B,$702M,,Japan,Asia
+242,Kakao Mobility,$4B,$1B,GS Retail,South Korea,Asia
+243,G-P/Globalization Partners,$4B,$350M,Vista Credit Partners,United States,North America
+244,ThoughtSpot,$4B,$664M,March Capital,United States,North America
+245,dbt Labs,$4B,$414M,Altimeter Capital,United States,North America
+246,Relativity Space,$4B,$1B,Fidelity,United States,North America
+247,Armis Security,$4B,$737M,"Alkeon Capital, General Catalyst",United States,North America
+248,Zipline,$4B,$813M,"Baillie Gifford, Katalyst Ventures",United States,North America
+249,Hithium Energy Storage,$4B,$899M,"Beijing Financial Street Capital Operation Center, China Life Private Equity Investment",China,Asia
+250,SSENSE,$4B,$0,HongShan,Canada,North America
+251,Bitpanda,$4B,$554M,Valar Ventures,Austria,Europe
+252,Dataminr,$4B,$1B,Fidelity,United States,North America
+253,AngelList,$4B,$170M,"Accomplice, Tiger Global Management",United States,North America
+254,Weee!,$4B,$863M,SoftBank Vision Fund,United States,North America
+255,SumUp,$4B,$989M,Sixth Street,United Kingdom,Europe
+256,Wealthsimple,$4B,$900M,"Greylock, Meritech Capital Partners",Canada,North America
+257,Kraken,$4B,$21M,"2B Global Capital, Venture Garage",United States,North America
+258,Turing,$4B,$136M,AltaIR Capital,United States,North America
+259,Cerebras Systems,$4B,$715M,Alpha Wave Ventures,United States,North America
+260,Branch,$4B,$667M,New Enterprise Associates,United States,North America
+261,Yuga Labs,$4B,$450M,a16z crypto,United States,North America
+262,Houzz,$4B,$614M,ICONIQ Growth,United States,North America
+263,Next Insurance,$4B,$1B,"Allianz X, Allstate",United States,North America
+264,BrowserStack,$4B,$250M,Bond,Ireland,Europe
+265,Clubhouse,$4B,$110M,"Andreessen Horowitz, Tiger Global Management",United States,North America
+266,ClickUp,$4B,$535M,"Andreessen Horowitz, Tiger Global Management",United States,North America
+267,Patreon,$4B,$413M,Tiger Global Management,United States,North America
+268,MEGVII,$4B,$1B,Bank of China Group Investment,China,Asia
+269,Aurora Solar,$4B,$523M,"Coatue, Energize Capital",United States,North America
+270,Zapier,$4B,$1M,,United States,North America
+271,Skims,$4B,$701M,Wellington Management,United States,North America
+272,AlphaSense,$4B,$1B,"BDT & MSD Partners, Viking Global Investors",United States,North America
+273,Radiology Partners,$4B,$2B,Starr Investment Holdings,United States,North America
+274,Inflection AI,$4B,$2B,"Bill Gates, Eric Schmidt",United States,North America
+275,Aptos,$4B,$350M,Binance Labs,United States,North America
+276,Skydance Media,$4B,$675M,Kohlberg Kravis Roberts,United States,North America
+277,The Brandtech Group,$4B,$725M,Chrysalis Investments,United States,North America
+278,Webflow,$4B,$335M,Y Combinator Continuity Fund,United States,North America
+279,Tekion,$4B,$635M,Dragoneer Investment Group,United States,North America
+280,insightsoftware,$4B,$799M,Hg,United States,North America
+281,Hozon,$4B,$4B,"CRRC, Shenzhen Capital Group",China,Asia
+282,Meesho,$4B,$1B,"B Capital, Fidelity",India,Asia
+283,Medlinker,$4B,$762M,Sino Biopharmaceutical,China,Asia
+284,Farmers Business Network,$4B,$918M,Fidelity,United States,North America
+285,Yunwang Wandian,$4B,$912M,Shenzhen Capital Group,China,Asia
+286,StockX,$4B,$495M,Altimeter Capital,United States,North America
+287,OYO,$4B,$3B,Redsprig Innovation Partners,India,Asia
+288,Qontigo,$4B,$720M,General Atlantic,Germany,Europe
+289,ENOVATE Motors,$4B,$1B,,China,Asia
+290,Dutchie,$4B,$603M,D1 Capital Partners,United States,North America
+291,Articulate,$4B,$2B,General Atlantic,United States,North America
+292,Avride,$4B,$425M,,United States,North America
+293,Dataiku,$4B,$847M,Wellington Management,United States,North America
+294,Papaya Global,$4B,$440M,Insight Partners,United States,North America
+295,Noom,$4B,$659M,Silver Lake,United States,North America
+296,Goat Group,$4B,$493M,Park West Asset Management,United States,North America
+297,o9 Solutions,$4B,$533M,Beyond Net Zero,United States,North America
+298,Harness,$4B,$370M,Norwest Venture Partners,United States,North America
+299,Upstox,$4B,$143M,Tiger Global Management,India,Asia
+300,Learneo,$4B,$492M,Wellington Management,United States,North America
+301,Relativity,$4B,$125M,Silver Lake,United States,North America
+302,WHOOP,$4B,$404M,SoftBank Vision Fund,United States,North America
+303,SpotOn,$4B,$918M,Dragoneer Investment Group,United States,North America
+304,Aptean,$4B,$50M,Clearlake Capital Group,United States,North America
+305,Ottobock,$4B,$0,EQT,Germany,Europe
+306,Handshake,$4B,$434M,"Coatue, Valiant Peregrine Fund",United States,North America
+307,Rec Room,$4B,$294M,Coatue,United States,North America
+308,Flock Safety,$4B,$381M,Tiger Global Management,United States,North America
+309,Chargebee,$4B,$468M,"Peak XV Partners, Tiger Global Management",United States,North America
+310,Highspot,$4B,$643M,"B Capital, D1 Capital Partners",United States,North America
+311,Mirakl,$4B,$948M,Silver Lake,France,Europe
+312,Via,$4B,$887M,83North,United States,North America
+313,ApplyBoard,$4B,$480M,Ontario Teachers' Pension Plan,Canada,North America
+314,Wonder,$4B,$2B,Nestle,United States,North America
+315,Celestia,$4B,$157M,Bain Capital Crypto,Liechtenstein,Europe
+316,Vultr,$4B,$333M,"AMD Ventures, LuminArx Capital Management LP",United States,North America
+317,Aledade,$4B,$678M,Lightspeed Venture Partners,United States,North America
+318,Rokt,$4B,$487M,Tiger Global Management,United States,North America
+319,Cribl,$4B,$602M,Google Ventures,United States,North America
+320,Innovaccer,$3B,$654M,Mubadala Capital Ventures,United States,North America
+321,Unacademy,$3B,$789M,Temasek Holdings,India,Asia
+322,Baichuan Intelligence,$3B,$740M,"Alibaba Group, Tencent",China,Asia
+323,GoStudent,$3B,$780M,Prosus & Naspers,Austria,Europe
+324,MoonPay,$3B,$651M,"Coatue, Tiger Global Management",United States,North America
+325,Hive Box,$3B,$1B,"Asia Forge (Cayman), Trustbridge Partners",China,Asia
+326,HighRadius,$3B,$475M,"D1 Capital Partners, Tiger Global Management",United States,North America
+327,Market Kurly,$3B,$767M,Anchor Equity Partners,South Korea,Asia
+328,Starburst,$3B,$414M,Alkeon Capital,United States,North America
+329,Youxia Motors,$3B,$1B,Gezhi Asset Management,China,Asia
+330,Starling Bank,$3B,$956M,Goldman Sachs,United Kingdom,Europe
+331,Zhizi Automobile,$3B,$150M,"Enterprise Mixed Ownership Reform Fund, SASAC",China,Asia
+332,ElevenLabs,$3B,$281M,"Andreessen Horowitz, ICONIQ Growth",United States,North America
+333,Uber Freight,$3B,$1B,Greenbriar Equity Group,United States,North America
+334,Moonshot AI,$3B,$2B,"Alibaba Group, HongShan",China,Asia
+335,Spring Health,$3B,$467M,Generation Investment Management,United States,North America
+336,Komodo Health,$3B,$514M,Coatue,United States,North America
+337,Carbon Health,$3B,$623M,CVS Health Ventures,United States,North America
+338,Sinovac Life Sciences,$3B,$500M,Sino Biopharmaceutical,China,Asia
+339,Tabby,$3B,$654M,"Blue Pool Capital, Hassana Investment Company (HIC)",United Arab Emirates,Asia
+340,MicroPort Medbot,$3B,$747M,Hillhouse Investment,China,Asia
+341,Du Xiaoman Financial,$3B,$2B,TPG,China,Asia
+342,Zhuzhou CRRC Times Semiconductor,$3B,$28M,Zhuzhou CRRC Times Electric,China,Asia
+343,Blockdaemon,$3B,$431M,"Sapphire Ventures, Tiger Global Management",United States,North America
+344,Bilt Rewards,$3B,$563M,Teachers’ Venture Growth,United States,North America
+345,Vercel,$3B,$563M,Accel,United States,North America
+346,Qi An Xin,$3B,$536M,Everest Venture Capital,China,Asia
+347,Wanda E-Commerce,$3B,$975M,WANDA Group,China,Asia
+348,Aiven,$3B,$420M,Eurazeo,Finland,Europe
+349,CARS24,$3B,$1B,Global Car Group,India,Asia
+350,Eruditus Executive Education,$3B,$741M,The Rise Fund,India,Asia
+351,Figure,$3B,$447M,"10T Holdings, Morgan Creek Digital",United States,North America
+352,Blockstream,$3B,$299M,Fulgur Ventures,Canada,North America
+353,Thumbtack,$3B,$698M,Qatar Investment Authority,United States,North America
+354,Cedar,$3B,$394M,Memorial Hermann Foundation,United States,North America
+355,Ironclad,$3B,$334M,Franklin Templeton,United States,North America
+356,Retool,$3B,$141M,Sequoia Capital,United States,North America
+357,Verkada,$3B,$444M,Alkeon Capital,United States,North America
+358,PsiQuantum,$3B,$1B,"Australian Government, Queensland Government",United States,North America
+359,Nuvemshop,$3B,$628M,"Insight Partners, Tiger Global Management",Brazil,South America
+360,Mixuebingcheng,$3B,$309M,"Hillhouse Investment, Longzhu Capital",China,Asia
+361,Amber Group,$3B,$628M,Fenbushi Capital,Hong Kong,Asia
+362,Flutterwave,$3B,$474M,B Capital,United States,North America
+363,World,$3B,$244M,Blockchain Capital,Germany,Europe
+364,Tinder,$3B,$0,Benchmark,United States,North America
+365,Cross River Bank,$3B,$775M,"Andreessen Horowitz, Eldridge Industries",United States,North America
+366,Bird,$3B,$1B,Spark Capital,The Netherlands,Europe
+367,Anchorage Digital,$3B,$487M,Kohlberg Kravis Roberts,United States,North America
+368,LaunchDarkly,$3B,$330M,Lead Edge Capital,United States,North America
+369,Automattic,$3B,$859M,"Alta Park Capital, BlackRock",United States,North America
+370,Contentful,$3B,$333M,Tiger Global Management,Germany,Europe
+371,Calendly,$3B,$351M,OpenView,United States,North America
+372,Podium,$3B,$423M,Y Combinator Continuity Fund,United States,North America
+373,Lucid Software,$3B,$170M,ICONIQ Growth,United States,North America
+374,Wildlife Studios,$3B,$260M,Vulcan Capital,Brazil,South America
+375,Inxeption,$3B,$187M,Schonfeld Strategic Advisors,United States,North America
+376,FlixBus,$3B,$1B,Canyon Partners,Germany,Europe
+377,Paytm Mall,$3B,$795M,eBay,India,Asia
+378,Age of Learning,$3B,$500M,TPG,United States,North America
+379,ofo,$3B,$2B,Alibaba Group,China,Asia
+380,TradingView,$3B,$389M,Smash Capital,United Kingdom,Europe
+381,Seismic,$3B,$447M,Permira,United States,North America
+382,Groww,$3B,$393M,ICONIQ Growth,India,Asia
+383,ActiveCampaign,$3B,$360M,Tiger Global Management,United States,North America
+384,Didi Freight,$3B,$2B,"CPE, IDG Capital",China,Asia
+385,VANCL,$3B,$522M,Jun Lei,China,Asia
+386,Forter,$3B,$525M,Tiger Global Management,United States,North America
+387,Miaopai,$3B,$775M,"SINA Corporation, Weibo",China,Asia
+388,Outschool,$3B,$240M,"Bond, Tiger Global Management",United States,North America
+389,Lattice,$3B,$330M,"Dragoneer Investment Group, Elad Gil",United States,North America
+390,Cato Networks,$3B,$770M,Lightspeed Venture Partners,Israel,Asia
+391,Zetwerk,$3B,$749M,"Khosla Ventures, Rakesh Gangwal",India,Asia
+392,Sword Health,$3B,$326M,Sapphire Ventures,United States,North America
+393,Nord Security,$3B,$209M,Warburg Pincus,Lithuania,Europe
+394,Clio,$3B,$1B,New Enterprise Associates,Canada,North America
+395,Island,$3B,$560M,Coatue,United States,North America
+396,Phantom,$3B,$268M,"Paradigm, Sequoia Capital",United States,North America
+397,LayerZero Labs,$3B,$296M,"OpenSea Ventures, The Spartan Group",Canada,North America
+398,Sentry,$3B,$217M,"Accel, Bond",United States,North America
+399,KK Group,$3B,$612M,JD.com,China,Asia
+400,Grab Financial Group,$3B,$4B,Hanwha Asset Management,Singapore,Asia
+401,Alibaba Music,$3B,$0,,China,Asia
+402,PingCAP,$3B,$642M,"GGV Capital, Sequoia Capital",United States,North America
+403,Harvey,$3B,$506M,Sequoia Capital,United States,North America
+404,Poolside,$3B,$626M,Bain Capital Ventures,United States,North America
+405,Group14 Technologies,$3B,$649M,Porsche,United States,North America
+406,iCIMS,$3B,$93M,TA Associates,United States,North America
+407,iFIT,$3B,$580M,L Catterton,United States,North America
+408,Remote,$3B,$496M,SoftBank Vision Fund,United States,North America
+409,Cyera,$3B,$765M,"Accel, Sapphire Ventures",United States,North America
+410,Improbable,$3B,$704M,"Elrond, Metaverse",United Kingdom,Europe
+411,Lionheart Studio,$3B,$9M,"Kakao Games, Wemade",South Korea,Asia
+412,CMR Surgical,$3B,$1B,"Ally Bridge Group, SoftBank Vision Fund",United Kingdom,Europe
+413,ABB E-Mobility,$3B,$358M,,,
+414,Yipin Fresh,$3B,$659M,"Capital Today, Tencent",China,Asia
+415,Souche,$3B,$1B,"5Y Capital, Primavera Capital Group",China,Asia
+416,LY.com,$3B,$2B,Overseas Chinese Town Holdings,China,Asia
+417,KoBold Metals,$3B,$945M,"Durable Capital Partners, T. Rowe Price",United States,North America
+418,DuerOS,$3B,$295M,,China,Asia
+419,Terminus Technologies,$3B,$813M,Microware,China,Asia
+420,Workrise,$3B,$722M,Baillie Gifford,United States,North America
+421,Loft,$3B,$888M,Baillie Gifford,Brazil,South America
+422,Eswin Materials,$3B,$1B,Phase II Fund,China,Asia
+423,China UnionPay Merchant Services,$3B,$319M,Everbright-IDG Industrial Fund,China,Asia
+424,DriveWealth,$3B,$551M,"Accel, Insight Partners",United States,North America
+425,BharatPe,$3B,$600M,Tiger Global Management,India,Asia
+426,Motive,$3B,$567M,"Insight Partners, Kleiner Perkins",United States,North America
+427,Transmit Security,$3B,$583M,"General Atlantic, Insight Partners",United States,North America
+428,Sungrow New Energy,$3B,$0,,China,Asia
+429,Zhipu AI,$3B,$812M,Zhongguancun Science City Science,China,Asia
+430,Crusoe Energy Systems,$3B,$1B,Founders Fund,United States,North America
+431,Physics Wallah,$3B,$277M,Hornbill Capital Advisers,India,Asia
+432,One,$3B,$300M,"Ribbit Capital, Walmart",United States,North America
+433,Groq,$3B,$1B,"Alumni Ventures, BlackRock",United States,North America
+434,Shield AI,$3B,$778M,"Riot Ventures, US Innovative Technology Fund",United States,North America
+435,OakNorth,$3B,$1B,SoftBank Vision Fund,United Kingdom,Europe
+436,Infra.Market,$3B,$495M,MARS Unicorn Fund,India,Asia
+437,MUSINSA,$3B,$478M,Kohlberg Kravis Roberts,South Korea,Asia
+438,Rakuten Securities,$3B,$0,,Japan,Asia
+439,Avatr,$3B,$2B,Changan Automobile,China,Asia
+440,Traveloka,$3B,$1B,PTT Oil and Retail Business Public Company,Indonesia,Asia
+441,Illumio,$3B,$558M,Thoma Bravo,United States,North America
+442,MasterClass,$3B,$461M,Fidelity,United States,North America
+443,Dream Games,$3B,$468M,Index Ventures,Turkey,Europe
+444,Ualá,$3B,$844M,Allianz X,Argentina,South America
+445,Abridge,$3B,$458M,"Elad Gil, IVP",United States,North America
+446,Ethos Life,$3B,$414M,SoftBank Vision Fund,United States,North America
+447,Nextiva,$3B,$200M,Goldman Sachs Asset Management,United States,North America
+448,HiBob,$3B,$574M,"Alpha Wave Global, Farallon Capital Management",Israel,Asia
+449,TravelPerk,$3B,$730M,"Atomico, EQT",Spain,Europe
+450,Thought Machine,$3B,$563M,Temasek Holdings,United Kingdom,Europe
+451,Tenstorrent,$3B,$1B,"AFW Partners, Samsung Securities",Canada,North America
+452,Tridge,$3B,$114M,DS Asset Management,South Korea,Asia
+453,Backbase,$3B,$129M,Motive Partners,The Netherlands,Europe
+454,Figure,$3B,$854M,Intel Capital,United States,North America
+455,Karrot Market,$3B,$235M,DST Global,South Korea,Asia
+456,Sourcegraph,$3B,$248M,Andreessen Horowitz,United States,North America
+457,Airtel Mobile Commerce BV,$3B,$300M,Mastercard,The Netherlands,Europe
+458,JumpCloud,$3B,$407M,Sapphire Ventures,United States,North America
+459,project44,$3B,$943M,"A.P. Moller Holding, Generation Investment Management",United States,North America
+460,Axonius,$3B,$595M,"Accel, Lightspeed Venture Partners",United States,North America
+461,Clari,$3B,$496M,Blackstone Group,United States,North America
+462,Plume Design,$3B,$697M,SoftBank Vision Fund,United States,North America
+463,Pendo,$3B,$367M,B Capital,United States,North America
+464,Suning Sports,$3B,$600M,"Alibaba Group, Goldman Sachs",China,Asia
+465,Anysphere,$3B,$173M,Thrive Capital,United States,North America
+466,unico IDtech,$3B,$337M,"General Atlantic, SOFTBANK Latin America Ventures",Brazil,South America
+467,Moglix,$3B,$472M,"Alpha Wave Global, Tiger Global Management",Singapore,Asia
+468,ManoMano,$3B,$706M,Dragoneer Investment Group,France,Europe
+469,Bending Spoons,$3B,$297M,Durable Capital Partners,Italy,Europe
+470,Fujian Deer Technology,$3B,$480M,National Manufacturing Transformation and Upgrading Fund,China,Asia
+471,Jusda,$3B,$356M,"China Life Insurance, CICC",China,Asia
+472,Chainalysis,$3B,$537M,GIC,United States,North America
+473,Side,$3B,$264M,Tiger Global Management,United States,North America
+474,Somatus,$3B,$465M,Wellington Management,United States,North America
+475,SiFive,$3B,$366M,Coatue,United States,North America
+476,Games24x7,$3B,$75M,Malabar Investment Advisors,India,Asia
+477,Uniphore,$3B,$607M,New Enterprise Associates,United States,North America
+478,Aura,$3B,$523M,Robert Downey Jr.,United States,North America
+479,Sysdig,$3B,$730M,Permira,United States,North America
+480,Fetch,$3B,$582M,Hamilton Lane,United States,North America
+481,Varo Bank,$3B,$1B,Warburg Pincus,United States,North America
+482,Syniverse,$3B,$753M,Twilio,United States,North America
+483,Cambricon Technologies,$3B,$200M,SDIC Venture Capital,China,Asia
+484,VistaJet,$3B,$150M,Rhône Group,United States,North America
+485,BYTON,$3B,$1B,Marubeni,China,Asia
+486,Mavenir,$3B,$935M,Siris Capital Group,United States,North America
+487,Jetti Resources,$3B,$169M,BMW i Ventures,United States,North America
+488,Immutable Systems,$3B,$277M,Temasek Holdings,Australia,Oceania
+489,Wormhole,$3B,$225M,,Cayman Islands,North America
+490,DriveNets,$3B,$587M,D2 Investments,Israel,Asia
+491,MiniMax,$3B,$850M,Alibaba Group,China,Asia
+492,eToro,$3B,$473M,China Minsheng Financial Holdings,Israel,Asia
+493,StackAdapt,$3B,$537M,Teachers’ Venture Growth,Canada,North America
+494,Autodoc,$2B,$0,Apollo,Germany,Europe
+495,Vanta,$2B,$353M,Sequoia Capital,United States,North America
+496,Electrify America,$2B,$450M,Siemens Financial Services,United States,North America
+497,DMALL,$2B,$528M,Industrial Bank,China,Asia
+498,Star Charge,$2B,$125M,Hillhouse Investment,Singapore,Asia
+499,ABL Space Systems,$2B,$459M,T. Rowe Price,United States,North America
+500,HoneyBook,$2B,$498M,Durable Capital Partners,United States,North America
+501,Physical Intelligence,$2B,$470M,"Jeff Bezos, Lux Capital",United States,North America
+502,LogicMonitor,$2B,$943M,"Golub Capital, PSG Equity",United States,North America
+503,Carbon,$2B,$683M,"Baillie Gifford, Madrone Capital Partners",United States,North America
+504,Paxos,$2B,$543M,MercadoLibre,United States,North America
+505,BitSight,$2B,$398M,Moody's Investors Service,United States,North America
+506,Exabeam,$2B,$391M,Owl Rock Capital,United States,North America
+507,Wellhub,$2B,$605M,"EQT Growth, General Atlantic",United States,North America
+508,Accelerant,$2B,$343M,Barings,United Kingdom,Europe
+509,Trumid,$2B,$458M,Point Break Capital Management,United States,North America
+510,Beta Technologies,$2B,$1B,Qatar Investment Authority,United States,North America
+511,BrewDog,$2B,$248M,TSG Consumer Partners,United Kingdom,Europe
+512,Yitu Technology,$2B,$401M,Yichang Boyue Investment Management,China,Asia
+513,Go1,$2B,$414M,Insight Partners,Australia,Oceania
+514,Enpal,$2B,$523M,"Activate Capital Partners, The Westly Group",Germany,Europe
+515,Beijing Weilan New Energy Technology,$2B,$303M,Chengtong Mixed Reform,China,Asia
+516,Job&Talent,$2B,$890M,"Kinnevik, SoftBank Vision Fund",Spain,Europe
+517,BGL Group,$2B,$696M,CPP Investments,United Kingdom,Europe
+518,Latitude Financial Services,$2B,$0,,Australia,Oceania
+519,Uptake Technologies,$2B,$218M,Baillie Gifford,United States,North America
+520,Coda,$2B,$715M,"GIC, Insight Partners",Singapore,Asia
+521,Greenlight,$2B,$557M,Andreessen Horowitz,United States,North America
+522,Headway,$2B,$326M,Spark Capital,United States,North America
+523,Mobile Premier League,$2B,$391M,Alameda Research,India,Asia
+524,Liquid AI,$2B,$293M,AMD Ventures,United States,North America
+525,Story Protocol,$2B,$134M,Andreessen Horowitz,United States,North America
+526,Algolia,$2B,$334M,Lone Pine Capital,United States,North America
+527,1inch Labs,$2B,$190M,Amber Group,United States,North America
+528,UpGrad,$2B,$722M,Temasek Holdings,India,Asia
+529,Qianxun Spatial Intelligence,$2B,$141M,Beijing State-owned Capital Operations and Management,China,Asia
+530,Pattern,$2B,$277M,Knox Lane,United States,North America
+531,Huimin,$2B,$517M,Jinan Industrial Development Group,China,Asia
+532,Current,$2B,$602M,Andreessen Horowitz,United States,North America
+533,Bitso,$2B,$315M,"Coatue, Tiger Global Management",Mexico,North America
+534,Modern Treasury,$2B,$183M,Altimeter Capital,United States,North America
+535,G7,$2B,$710M,"CS Capital, Trustbridge Partners",China,Asia
+536,Bloomreach,$2B,$422M,Goldman Sachs Asset Management,United States,North America
+537,Dialpad,$2B,$450M,ICONIQ Growth,United States,North America
+538,NuCom Group,$2B,$550M,General Atlantic,Germany,Europe
+539,Transcarent,$2B,$424M,"7wire Ventures, General Catalyst",United States,North America
+540,Newfront,$2B,$310M,"B Capital, Goldman Sachs Asset Management",United States,North America
+541,Zip,$2B,$371M,Bond,United States,North America
+542,Skydio,$2B,$740M,Linse Capital,United States,North America
+543,Planet Payment,$2B,$21M,Michael Margolies,Ireland,Europe
+544,Huaqin Communication Technology,$2B,$298M,ZJ Innopark (Zhangjiang Hi-Tech Park),China,Asia
+545,Inari,$2B,$708M,"Alexandria Venture Investments, Flagship Pioneering",United States,North America
+546,Addepar,$2B,$531M,D1 Capital Partners,United States,North America
+547,Chint Anneng Digital Energy,$2B,$729M,,China,Asia
+548,CoinDCX,$2B,$247M,"Pantera Capital, Steadview Capital",India,Asia
+549,JD Industry,$2B,$530M,Mubadala,China,Asia
+550,CloudWalk,$2B,$345M,Coatue,Brazil,South America
+551,Rimac Group,$2B,$876M,"Goldman Sachs, SoftBank Vision Fund",Croatia,Europe
+552,ABLY Corporation,$2B,$220M,Alibaba Group,South Korea,Asia
+553,Synthesia,$2B,$337M,New Enterprise Associates,United Kingdom,Europe
+554,2TM,$2B,$250M,MercadoLibre,Brazil,South America
+555,Docker,$2B,$436M,Bain Capital Ventures,United States,North America
+556,Jeeves Inc.,$2B,$268M,Tencent,United States,North America
+557,Forto,$2B,$593M,Disruptive,Germany,Europe
+558,Moveworks,$2B,$305M,"Alkeon Capital, Tiger Global Management",United States,North America
+559,Recharge,$2B,$277M,Summit Partners,United States,North America
+560,Medable,$2B,$507M,"Blackstone Accelerates Growth, GSR Ventures",United States,North America
+561,GoCardless,$2B,$529M,Permira,United Kingdom,Europe
+562,Urban Company,$2B,$371M,"Dragoneer Investment Group, Prosus Ventures",India,Asia
+563,Eightfold AI,$2B,$397M,SoftBank Vision Fund,United States,North America
+564,Engine,$2B,$221M,Permira,United States,North America
+565,bolttech,$2B,$493M,Dragon Fund,Singapore,Asia
+566,Taobao Movie,$2B,$260M,"Ant Group, CDH Investments",China,Asia
+567,Kong,$2B,$344M,"Balderton Capital, Tiger Global Management",United States,North America
+568,Biren Technology,$2B,$576M,"C Ventures, Country Garden",China,Asia
+569,Runpeng Semiconductor,$2B,$2B,China Resources Microelectronics,China,Asia
+570,PayFit,$2B,$496M,General Atlantic,France,Europe
+571,Tianbing Technology,$2B,$238M,CITIC Construction Investment,China,Asia
+572,Voodoo,$2B,$517M,Groupe Bruxelles Lambert,France,Europe
+573,ZigBang,$2B,$282M,Shinhan Venture Investment,South Korea,Asia
+574,Flash Express,$2B,$781M,Buer Capital,Thailand,Asia
+575,Kunlun Core,$2B,$253M,Beijing Artificial Intelligence Industry Investment Fund,China,Asia
+576,Kry,$2B,$728M,"CPP Investments, Fidelity",Sweden,Europe
+577,Zilch,$2B,$414M,eBay Ventures,United Kingdom,Europe
+578,Kunlun,$2B,$0,CPE,China,Asia
+579,Salsify,$2B,$453M,TPG,United States,North America
+580,Babel Finance,$2B,$120M,"10T Holdings, Jeneration Capital",Hong Kong,Asia
+581,ROX Motor,$2B,$1B,Shandong Weiqiao Pioneering Group,China,Asia
+582,Clear Street,$2B,$470M,Prysm Capital,United States,North America
+583,Copper,$2B,$266M,Alan Howard,United Kingdom,Europe
+584,21.co,$2B,$35M,Marshall Wace,Switzerland,Europe
+585,Mysten Labs,$2B,$336M,FTX Ventures,United States,North America
+586,DeepL,$2B,$400M,Index Ventures,Germany,Europe
+587,ShiftKey,$2B,$300M,Lorient Capital,United States,North America
+588,Xpansiv,$2B,$318M,"Bank of America, Goldman Sachs",United States,North America
+589,Polygon,$2B,$451M,Mark Cuban,India,Asia
+590,Pipe,$2B,$316M,Greenspring Associates,United States,North America
+591,Mural,$2B,$194M,"Insight Partners, Tiger Global Management",United States,North America
+592,CertiK,$2B,$300M,"SoftBank Vision Fund, Tiger Global Management",United States,North America
+593,Pantheon,$2B,$200M,SoftBank Vision Fund,United States,North America
+594,Hive,$2B,$121M,Glynn Capital Management,United States,North America
+595,Redis,$2B,$356M,Tiger Global Management,United States,North America
+596,Iterable,$2B,$342M,Viking Global Investors,United States,North America
+597,Everlaw,$2B,$299M,TPG Growth,United States,North America
+598,Unqork,$2B,$365M,BlackRock,United States,North America
+599,Druva,$2B,$475M,Caisse de Depot et Placement du Quebec,United States,North America
+600,Aviatrix,$2B,$341M,TCV,United States,North America
+601,Clip,$2B,$481M,Morgan Stanley Tactical Value,Mexico,North America
+602,Kajabi,$2B,$550M,Tiger Global Management,United States,North America
+603,Cloudinary,$2B,$0,,United States,North America
+604,Netlify,$2B,$212M,Bessemer Venture Partners,United States,North America
+605,OPay,$2B,$570M,SoftBank Vision Fund,Nigeria,Africa
+606,Misfits Market,$2B,$527M,SoftBank Vision Fund,United States,North America
+607,Claroty,$2B,$740M,Delta-v Capital,United States,North America
+608,Apeel Sciences,$2B,$640M,Temasek Holdings,United States,North America
+609,Formlabs,$2B,$251M,SoftBank Vision Fund,United States,North America
+610,LTK,$2B,$315M,SoftBank Vision Fund,United States,North America
+611,BlaBlaCar,$2B,$464M,IFC,France,Europe
+612,Pivot Bio,$2B,$617M,"DCVC, Temasek Holdings",United States,North America
+613,Viva Wallet,$2B,$190M,JP Morgan,Greece,Europe
+614,Advance Intelligence Group,$2B,$616M,"Northstar Group, Warburg Pincus",Singapore,Asia
+615,XINGYUN GROUP,$2B,$950M,"Crescent Group (Crescent Point), Harvest Global Investments",China,Asia
+616,Mafengwo,$2B,$503M,Guizhou Innovation Empowerment Big Data Investment Fund,China,Asia
+617,Magic Leap,$2B,$3B,NTT DoCoMo,United States,North America
+618,OCSiAl Group,$2B,$275M,Da Vinci Capital,Luxembourg,Europe
+619,Aleph Holding,$2B,$495M,Snap,United States,North America
+620,ManyPets,$2B,$483M,EQT,United Kingdom,Europe
+621,Dremio,$2B,$410M,Adams Street Partners,United States,North America
+622,4Paradigm,$2B,$1B,"Boyu Capital, HOPU Investment Management Company",China,Asia
+623,InMobi,$2B,$221M,Lightbox,India,Asia
+624,ClickHouse,$2B,$300M,Thrive Capital,United States,North America
+625,AppsFlyer,$2B,$293M,Salesforce Ventures,United States,North America
+626,Saks.com,$2B,$500M,STORY3 Capital Partners,United States,North America
+627,Xinchao Media,$2B,$768M,JD.com,China,Asia
+628,Calm,$2B,$218M,Lightspeed Venture Partners,United States,North America
+629,Momo,$2B,$434M,Mizuho Bank,Vietnam,Asia
+630,Guoquan Shihui,$2B,$552M,"CMB International Capital Corporation, Tiantu Capital",China,Asia
+631,To8to,$2B,$216M,HongShan,China,Asia
+632,Tradeshift,$2B,$931M,HSBC,United States,North America
+633,Keep,$2B,$614M,SoftBank Vision Fund,China,Asia
+634,Virta Health,$2B,$373M,Tiger Global Management,United States,North America
+635,Naixuecha,$2B,$216M,PAG,China,Asia
+636,Firstp2p,$2B,$111M,CCB International,China,Asia
+637,ISN Software Corporation,$2B,$0,Blackstone Group,United States,North America
+638,Trendy International Group,$2B,$200M,L Catterton Asia,China,Asia
+639,Acorns,$2B,$510M,TPG,United States,North America
+640,Solugen,$2B,$642M,"Kinnevik, Lowercarbon Capital",United States,North America
+641,Zeta,$2B,$390M,Optum,United States,North America
+642,Moloco,$2B,$192M,Tiger Global Management,United States,North America
+643,Devo,$2B,$481M,Eurazeo,United States,North America
+644,Melio,$2B,$654M,Fiserv,United States,North America
+645,Sila,$2B,$1B,"Sutter Hill Ventures, T. Rowe Price",United States,North America
+646,Cognition,$2B,$196M,Founders Fund,United States,North America
+647,Neo4j,$2B,$631M,Noteus Partners,United States,North America
+648,Trax,$2B,$1B,"BlackRock, SoftBank Vision Fund",Singapore,Asia
+649,SmartNews,$2B,$410M,"Asian Capital Alliance, Japan Post Capital",Japan,Asia
+650,Black Sesame Technologies,$2B,$115M,Dongfeng Asset Management,United States,North America
+651,Locus Robotics,$2B,$416M,"G2 Venture Partners, Goldman Sachs Asset Management",United States,North America
+652,Verbit,$2B,$432M,Third Point Ventures,United States,North America
+653,Loggi,$2B,$507M,CapSur Capital,Brazil,South America
+654,Farfetch China,$2B,$500M,"Alibaba Group, Richemont",China,Asia
+655,Mercor,$2B,$109M,Felicis,United States,North America
+656,BlinkRx,$2B,$315M,1789 Capital,United States,North America
+657,Insider,$2B,$772M,General Atlantic,Singapore,Asia
+658,GrubMarket,$2B,$499M,301,United States,North America
+659,Firefly Aerospace,$2B,$647M,RPM Ventures,United States,North America
+660,Axiom Space,$2B,$500M,"Aljazira Capital, Boryung Pharmaceutical",United States,North America
+661,Drata,$2B,$328M,"ICONIQ Growth, Notable Capital",United States,North America
+662,GetYourGuide,$2B,$741M,Blue Pool Capital,Germany,Europe
+663,Lessen,$2B,$735M,Legacy Knight,United States,North America
+664,Geek+,$2B,$539M,CPE,China,Asia
+665,ICON,$2B,$507M,Norwest Venture Partners,United States,North America
+666,Preferred Networks,$2B,$350M,SBI Group,Japan,Asia
+667,Lunar,$2B,$514M,Heartland,Denmark,Europe
+668,Clearco,$2B,$493M,"Founders Circle Capital, Inovia Capital",Canada,North America
+669,TIER Mobility,$2B,$587M,SoftBank Vision Fund,Germany,Europe
+670,Exotec,$2B,$447M,Goldman Sachs Asset Management,France,Europe
+671,Ankorstore,$2B,$422M,Bond,France,Europe
+672,Avant,$2B,$654M,Ares Management,United States,North America
+673,Sky Mavis,$2B,$311M,Binance,Vietnam,Asia
+674,JOLED,$2B,$838M,CSOT,Japan,Asia
+675,Vital Thin Film Materials,$2B,$813M,CICC,China,Asia
+676,Roofstock,$2B,$365M,SoftBank Vision Fund,United States,North America
+677,YinLong Group,$2B,$432M,,China,Asia
+678,SemiDrive,$2B,$504M,Shang Qi Capital,China,Asia
+679,Tianyu Semiconductor,$2B,$177M,,China,Asia
+680,commercetools,$2B,$308M,Accel,Germany,Europe
+681,ConcertAI,$2B,$300M,Sixth Street,United States,North America
+682,CoinSwitch,$2B,$301M,"Andreessen Horowitz, Coinbase Ventures",India,Asia
+683,DFINITY,$2B,$167M,"Andreessen Horowitz, Polychain",Switzerland,Europe
+684,InVision,$2B,$349M,Spark Capital,United States,North America
+685,MX Technologies,$2B,$450M,TPG,United States,North America
+686,Material Bank,$2B,$323M,Brookfield Growth,United States,North America
+687,JIANGXIAOBAI,$2B,$453M,China Renaissance,China,Asia
+688,Writer,$2B,$326M,"ICONIQ Growth, PremjiInvest",United States,North America
+689,NinjaOne,$2B,$262M,ICONIQ Growth,United States,North America
+690,Zhenkunxing,$2B,$999M,YF Capital,China,Asia
+691,Volocopter,$2B,$544M,NEOM,Germany,Europe
+692,SFCC,$2B,$817M,,China,Asia
+693,MegazoneCloud,$2B,$673M,"IMM Private Equity, MBK Partners",South Korea,Asia
+694,Ninja Van,$2B,$975M,Alibaba Group,Singapore,Asia
+695,OLIPOP,$2B,$93M,J.P. Morgan Growth Equity Partners,United States,North America
+696,bunq,$2B,$423M,Pollen Street Capital,The Netherlands,Europe
+697,DailyPay,$2B,$264M,Carrick Capital Partners,United States,North America
+698,Sineva,$2B,$253M,Peakview Capital,China,Asia
+699,Kindbody,$2B,$206M,Morgan Health,United States,North America
+700,Fever,$2B,$409M,Goldman Sachs,United States,North America
+701,Quantexa,$2B,$370M,GIC,United Kingdom,Europe
+702,Scroll.io,$2B,$81M,Qiming Venture Partners,Seychelles,Africa
+703,Diamond Foundry,$2B,$350M,,United States,North America
+704,SJ Semi,$2B,$2B,Walden International,China,Asia
+705,Udaan,$2B,$2B,M&G Plc,India,Asia
+706,Neko Health,$2B,$325M,Lightspeed Venture Partners,Sweden,Europe
+707,Lightricks,$2B,$305M,"Hanaco Venture Capital, Insight Partners",Israel,Asia
+708,Zocdoc,$2B,$374M,Francisco Partners,United States,North America
+709,FullStory,$2B,$197M,Permira,United States,North America
+710,Opentrons,$2B,$240M,SoftBank Vision Fund,United States,North America
+711,Quest Global,$2B,$731M,The Carlyle Group,Singapore,Asia
+712,Glossier,$2B,$266M,Lone Pine Capital,United States,North America
+713,Landa Digital Printing,$2B,$485M,Altana,Israel,Asia
+714,Spinny,$2B,$476M,Sachin Tendulkar,India,Asia
+715,Orca Security,$2B,$632M,Temasek Holdings,United States,North America
+716,Watershed,$2B,$239M,Greenoaks,United States,North America
+717,Meril Life,$2B,$200M,Warburg Pincus,India,Asia
+718,Gousto,$2B,$372M,SoftBank Vision Fund,United Kingdom,Europe
+719,Kaseya,$2B,$547M,TPG,Ireland,Europe
+720,Trulioo,$2B,$474M,TCV,Canada,North America
+721,Akulaku Group,$2B,$638M,Mitsubishi UFJ Financial Group,Indonesia,Asia
+722,BitGo,$2B,$172M,Brink’s,United States,North America
+723,NantOmics,$2B,$251M,NantHealth,United States,North America
+724,ID.me,$2B,$274M,Viking Global Investors,United States,North America
+725,Productboard,$2B,$261M,"Dragoneer Investment Group, Tiger Global Management",United States,North America
+726,Maropost,$2B,$0,,Canada,North America
+727,Multiverse,$2B,$419M,"General Catalyst, Lightspeed Venture Partners",United Kingdom,Europe
+728,Front,$2B,$204M,"Battery Ventures, Salesforce Ventures",United States,North America
+729,Redesign Health,$2B,$315M,General Catalyst,United States,North America
+730,Micro Connect,$2B,$578M,Jane Street Capital,,
+731,Glance,$2B,$390M,Reliance Jio,Singapore,Asia
+732,CircleCI,$2B,$315M,Greenspring Associates,United States,North America
+733,Pax8,$2B,$347M,SoftBank Vision Fund,United States,North America
+734,H2O.ai,$2B,$251M,Commonwealth Bank of Australia,United States,North America
+735,ZenBusiness,$2B,$277M,Oak HC/FT,United States,North America
+736,Spotter,$2B,$238M,SoftBank Vision Fund,United States,North America
+737,DispatchHealth,$2B,$733M,Optum Ventures,United States,North America
+738,Harry's,$2B,$907M,STORY3 Capital Partners,United States,North America
+739,Reltio,$2B,$237M,Brighton Park Capital,United States,North America
+740,PAX Labs,$2B,$2B,"Tao Capital Partners, Tiger Global Management",United States,North America
+741,Carsome,$2B,$577M,"65 Equity Partners, Qatar Investment Authority",Malaysia,Asia
+742,Dragos,$2B,$432M,WestCap,United States,North America
+743,HomeLight,$2B,$299M,Zeev Ventures,United States,North America
+744,Alation,$2B,$315M,NTT DOCOMO Ventures,United States,North America
+745,VTS,$2B,$312M,Brookfield Growth,United States,North America
+746,Maven Clinic,$2B,$417M,StepStone Group,United States,North America
+747,Razor Group,$2B,$355M,Presight Capital,Germany,Europe
+748,Wave Mobile Money,$2B,$210M,Alameda Research,Senegal,Africa
+749,Vestiaire Collective,$2B,$643M,"Generation Investment Management, SoftBank Vision Fund",France,Europe
+750,Tessera Therapeutics,$2B,$582M,Bill & Melinda Gates Foundation,United States,North America
+751,Enflame,$2B,$746M,"China Fintech Fund, Shanghai GuoHe Capital",China,Asia
+752,DealShare,$2B,$378M,"Alpha Wave Global, Tiger Global Management",India,Asia
+753,SafetyCulture,$2B,$294M,Airtree Ventures,Australia,Oceania
+754,Kredivo Group,$2B,$530M,Mizuho Bank,Indonesia,Asia
+755,Incredible Health,$2B,$100M,Base10 Partners,United States,North America
+756,Optimism,$2B,$179M,"Andreessen Horowitz, Paradigm",United States,North America
+757,Hippocratic AI,$2B,$276M,Kleiner Perkins,United States,North America
+758,Mercury,$2B,$152M,Coatue,United States,North America
+759,Zhubajie,$2B,$445M,"Chongqing New North Zone Government Investment Fund, Cybernaut Venture Capital",China,Asia
+760,Capitolis,$2B,$302M,"9Yards Capital, Canapi Ventures",United States,North America
+761,Wayflyer,$2B,$236M,"DST Global, QED Investors",Ireland,Europe
+762,"Extend, Inc.",$2B,$320M,SoftBank Vision Fund,United States,North America
+763,Unite Us,$2B,$195M,ICONIQ Capital,United States,North America
+764,Cresta,$2B,$276M,"Qatar Investment Authority, WiL (World Innovation Lab)",United States,North America
+765,Afiniti,$2B,$120M,,Bermuda,North America
+766,ASAPP,$2B,$380M,"Dragoneer Investment Group, Fidelity",United States,North America
+767,Toss Bank,$2B,$733M,Welcome Capital,South Korea,Asia
+768,ezCater,$2B,$421M,SoftBank Vision Fund,United States,North America
+769,Bianlifeng,$2B,$656M,"Hillhouse Investment, Tencent",China,Asia
+770,MediTrust Health,$2B,$308M,HSBC China,China,Asia
+771,FloQast,$2B,$303M,ICONIQ Growth,United States,North America
+772,Chronosphere,$2B,$342M,CrowdStrike Falcon Fund,United States,North America
+773,DataStax,$2B,$343M,GS Growth,United States,North America
+774,Monte Carlo,$2B,$236M,IVP,United States,North America
+775,Magic Eden,$2B,$170M,"Electric Capital, Greylock",United States,North America
+776,Pave,$2B,$163M,Index Ventures,United States,North America
+777,Molbio Diagnostics,$2B,$117M,Temasek Holdings,India,Asia
+778,Apollo.io,$2B,$251M,Bain Capital Ventures,United States,North America
+779,WEKA,$2B,$415M,Valor Equity Partners,United States,North America
+780,AIWAYS,$2B,$792M,Fujian Dongbai (Group),China,Asia
+781,Ascend Elements,$2B,$1B,"Decarbonization Partners, Qatar Investment Authority",United States,North America
+782,GalaxySpace,$2B,$14M,CCB International,China,Asia
+783,Fresh Life Style Supply Chain Management,$2B,$93M,,China,Asia
+784,Nexii,$2B,$113M,"Horizon Technology Finance, Trinity Capital",Canada,North America
+785,Caocao Chuxing,$2B,$744M,Suzhou Xiangcheng Financial Holding Group,China,Asia
+786,SmartHR,$2B,$322M,"Kohlberg Kravis Roberts Japan, Teachers’ Venture Growth",Japan,Asia
+787,NMI,$2B,$0,Great Hill Partners,United States,North America
+788,Alloy,$2B,$213M,"Avenir, Lightspeed Venture Partners",United States,North America
+789,Kitopi,$2B,$804M,SoftBank Vision Fund,United Arab Emirates,Asia
+790,ESWIN Computing,$2B,$1B,"Beijing Financial Street Capital Operation Center, Guoxin Zhuoyue Venture Capital",China,Asia
+791,Wellong Etown,$2B,$0,CCB International,China,Asia
+792,Matrixport,$2B,$138M,"C Ventures, DST Global",Singapore,Asia
+793,Wenheyou,$2B,$91M,IDG Capital,China,Asia
+794,Qinghai Lihao,$2B,$306M,,China,Asia
+795,StoreDot,$2B,$190M,"Ola Electric, Polestar",Israel,Asia
+796,Main Street Health,$2B,$342M,Oak HC/FT,United States,North America
+797,ElasticRun,$2B,$435M,"Goldman Sachs, SoftBank Vision Fund",India,Asia
+798,Andela,$2B,$381M,SoftBank Vision Fund,United States,North America
+799,Airbyte,$2B,$181M,"Altimeter Capital, Coatue",United States,North America
+800,CoinList,$2B,$119M,"Accomplice, Agman Partners",United States,North America
+801,Veho,$2B,$299M,"SoftBank Vision Fund, Tiger Global Management",United States,North America
+802,Veriff,$2B,$177M,"Alkeon Capital, Tiger Global Management",Estonia,Europe
+803,Matillion,$2B,$290M,Databricks Ventures,United Kingdom,Europe
+804,Boba Network,$2B,$45M,Valour,United States,North America
+805,Olist,$2B,$320M,Wellington Management,Brazil,South America
+806,Perfect Day,$2B,$802M,"CPP Investments, Temasek Holdings",United States,North America
+807,Temporal Technologies,$2B,$204M,Greenoaks,United States,North America
+808,Cognite,$2B,$225M,TCV,Norway,Europe
+809,Collective Health,$2B,$719M,Health Care Service Corporation,United States,North America
+810,MindMaze,$2B,$340M,Concord Health Partners,Switzerland,Europe
+811,Lusha,$2B,$245M,PSG Equity,United States,North America
+812,Zenoti,$2B,$331M,TPG,United States,North America
+813,Built Technologies,$2B,$313M,Citi,United States,North America
+814,Paradox,$2B,$253M,"Sapphire Ventures, Stripes",United States,North America
+815,SmartRecruiters,$2B,$225M,Silver Lake Waterman,United States,North America
+816,Apollo GraphQL,$2B,$152M,Insight Partners,United States,North America
+817,HeartFlow,$2B,$783M,Bain Capital Life Sciences,United States,North America
+818,NextSilicon,$2B,$203M,Third Point Ventures,Israel,Asia
+819,1047 Games,$2B,$117M,Lightspeed Venture Partners,United States,North America
+820,HAI ROBOTICS,$2B,$315M,Capital Today,China,Asia
+821,Mu Sigma,$2B,$212M,Mastercard,India,Asia
+822,impact.com,$2B,$361M,Qatar Investment Authority,United States,North America
+823,Strava,$2B,$152M,"Sequoia Capital, TCV",United States,North America
+824,Tujia,$2B,$755M,"All-Stars Investment, Trip.com",China,Asia
+825,NotCo,$2B,$433M,Princeville Capital,Chile,South America
+826,Snapdocs,$2B,$253M,Tiger Global Management,United States,North America
+827,Persona,$2B,$218M,Founders Fund,United States,North America
+828,Prometheus,$2B,$150K,Maersk Growth,United States,North America
+829,Culture Amp,$2B,$257M,"HongShan, TDM Growth Partners",Australia,Oceania
+830,AppDirect,$2B,$431M,Caisse de Depot et Placement du Quebec,United States,North America
+831,Candy Digital,$2B,$138M,"ConsenSys Mesh, Galaxy Digital",United States,North America
+832,Spark Education Group,$2B,$593M,Trustbridge Partners,China,Asia
+833,Uplight,$2B,$0,"AES, Huck Capital",United States,North America
+834,fabric,$2B,$294M,SoftBank Vision Fund,United States,North America
+835,HashKey,$2B,$130M,Gaorong Capital,Hong Kong,Asia
+836,Chunqing Technology,$2B,$235M,"Boyu Capital, Guangzhou Yuexiu Industrial Investment Fund",China,Asia
+837,Lambda,$2B,$423M,US Innovative Technology Fund,United States,North America
+838,Berachain,$2B,$142M,"BH Digital, Framework Ventures",United States,North America
+839,Altruist,$2B,$450M,ICONIQ Growth,United States,North America
+840,Sigma Computing,$2B,$558M,"Avenir, Spark Capital",United States,North America
+841,Pacaso,$2B,$217M,SoftBank Vision Fund,United States,North America
+842,Huntress,$2B,$270M,"Kleiner Perkins, Meritech Capital Partners",United States,North America
+843,Skild AI,$2B,$300M,"Bezos Expeditions, Coatue",United States,North America
+844,Ascend Money,$2B,$345M,MUFG Bank,Thailand,Asia
+845,Sakana AI,$2B,$244M,"Khosla Ventures, Lux Capital",Japan,Asia
+846,Tyme Group,$2B,$567M,Nubank,Singapore,Asia
+847,Kushki,$2B,$194M,"Hedosophia, Kaszek",Ecuador,South America
+848,Yubi,$2B,$227M,"B Capital, Dragoneer Investment Group",India,Asia
+849,Rad Power Bikes,$2B,$329M,Fidelity,United States,North America
+850,Upside,$2B,$65M,General Catalyst,United States,North America
+851,Arcadia,$2B,$540M,Macquarie Asset Management,United States,North America
+852,Mashgin,$2B,$74M,New Enterprise Associates,United States,North America
+853,Dock,$2B,$280M,"Lightrock, Silver Lake Waterman",Brazil,South America
+854,Vayyar,$2B,$296M,Koch Disruptive Technologies,Israel,Asia
+855,5ire,$2B,$121M,SRAM & MRAM,United Kingdom,Europe
+856,Orna Therapeutics,$2B,$321M,Merck KGaA,United States,North America
+857,Runway,$2B,$237M,Salesforce Ventures,United States,North America
+858,Jasper,$2B,$131M,Insight Partners,Canada,North America
+859,Xpressbees,$2B,$553M,Teachers’ Venture Growth,India,Asia
+860,OpenWeb,$2B,$393M,Georgian,United States,North America
+861,slice,$2B,$307M,Tiger Global Management,India,Asia
+862,Placer.ai,$2B,$268M,"Buckley Ventures, Josh Buckley",United States,North America
+863,SellerX,$1B,$830M,Sofina,Germany,Europe
+864,PAPER,$1B,$390M,"Sapphire Ventures, SoftBank Vision Fund",Canada,North America
+865,InMyShow,$1B,$106M,"SAIF Partners, SINA Corporation",China,Asia
+866,Dt Dream,$1B,$267M,"Zhejiang State Enterprise Reform and Development Fund, ZSVC",China,Asia
+867,Cult.fit,$1B,$625M,Valecha Investments,India,Asia
+868,eSign,$1B,$186M,,China,Asia
+869,Panshi,$1B,$655M,Cybernaut Venture Capital,China,Asia
+870,Snack Is Busy,$1B,$199M,"Haoxiangni Jujube Industry, Yankershop Food",China,Asia
+871,Yuze Semiconductor,$1B,$177M,,China,Asia
+872,Huasun Energy,$1B,$629M,China Green Development Investment Group,China,Asia
+873,Judo Bank,$1B,$868M,,Australia,Oceania
+874,Ouyeel,$1B,$468M,,China,Asia
+875,Saxo Bank,$1B,$201M,General Atlantic,Denmark,Europe
+876,Tuandaiwang,$1B,$351M,China Minsheng Investment Group,China,Asia
+877,United Aircraft,$1B,$459M,Longjiang Fund,,
+878,IAD France,$1B,$364M,Insight Partners,France,Europe
+879,Aleo,$1B,$249M,"Kora, SoftBank Vision Fund",United States,North America
+880,M1 Holdings,$1B,$323M,SoftBank Vision Fund,United States,North America
+881,Amagi Media Labs,$1B,$322M,General Atlantic,United States,North America
+882,Coocaa,$1B,$218M,Baidu,China,Asia
+883,T3 Mobile Travel Services,$1B,$3B,CITIC Capital Holdings,China,Asia
+884,Netradyne,$1B,$288M,Point72 Ventures,United States,North America
+885,Seasun Games,$1B,$142M,Tencent,China,Asia
+886,Ledger,$1B,$575M,Molten Ventures,France,Europe
+887,Ryefield Energy,$1B,$142M,Sparkedge Capital,China,Asia
+888,Soterea,$1B,$204M,Ping An Capital,China,Asia
+889,Bordrin Motors,$1B,$362M,,China,Asia
+890,Scalable Capital,$1B,$379M,Balderton Capital,Germany,Europe
+891,GupShup,$1B,$484M,Tiger Global Management,United States,North America
+892,Clarify Health Solutions,$1B,$328M,SoftBank Vision Fund,United States,North America
+893,Rebel Foods,$1B,$724M,Kohlberg Kravis Roberts,India,Asia
+894,Figment,$1B,$164M,Thoma Bravo,United States,North America
+895,Yotpo,$1B,$436M,Shopify,United States,North America
+896,Panther,$1B,$141M,Coatue,United States,North America
+897,VideoAmp,$1B,$532M,Vista Credit Partners,United States,North America
+898,Salt Security,$1B,$271M,CrowdStrike Falcon Fund,United States,North America
+899,Envoy,$1B,$170M,Brookfield Growth,United States,North America
+900,Deliverect,$1B,$237M,"Alkeon Capital, Coatue",Belgium,Europe
+901,Dexterity,$1B,$196M,"Kleiner Perkins, Lightspeed Venture Partners",United States,North America
+902,Astranis,$1B,$703M,"Andreessen Horowitz, BAM Elevate",United States,North America
+903,Away,$1B,$181M,Wellington Management,United States,North America
+904,Cabify,$1B,$472M,Mutua Madrileña,Spain,Europe
+905,Tripledot Studios,$1B,$252M,The Twenty Minute VC,United Kingdom,Europe
+906,Pristyn Care,$1B,$177M,Sequoia Capital,India,Asia
+907,Epidemic Sound,$1B,$509M,"Blackstone Group, EQT",Sweden,Europe
+908,Papa,$1B,$241M,SoftBank Vision Fund,United States,North America
+909,Maya,$1B,$502M,Susquehanna International Group (SIG),Philippines,Asia
+910,Degreed,$1B,$390M,"Riverwood Capital, Sapphire Ventures",United States,North America
+911,Stash,$1B,$426M,"Goodwater Capital, T. Rowe Price",United States,North America
+912,Firebolt,$1B,$264M,Alkeon Capital,Israel,Asia
+913,Hike,$1B,$261M,Jump Crypto,India,Asia
+914,Symphony Communication Services,$1B,$511M,"Mitsubishi UFJ Financial Group, Standard Chartered Bank",United States,North America
+915,TaxBit,$1B,$253M,IQT,United States,North America
+916,Route,$1B,$289M,Hanaco Venture Capital,United States,North America
+917,Phenom,$1B,$161M,B Capital,United States,North America
+918,Eon,$1B,$197M,Bond,United States,North America
+919,Aragen Life Sciences,$1B,$125M,Quadria Capital,India,Asia
+920,Nium,$1B,$338M,Moore Strategic Ventures,Singapore,Asia
+921,Paddle,$1B,$293M,Kohlberg Kravis Roberts,United Kingdom,Europe
+922,OHouse,$1B,$261M,Bond,South Korea,Asia
+923,Wealthfront,$1B,$205M,UBS,United States,North America
+924,LIQUiDITY Group,$1B,$114M,MUFG Bank,United States,North America
+925,Liquid Death,$1B,$261M,Science,,
+926,AI21 Labs,$1B,$327M,"Comcast Ventures, Intel Capital",Israel,Asia
+927,eFishery,$1B,$310M,G42 Expansion Fund,Indonesia,Asia
+928,Avathon,$1B,$286M,"AEI Horizon X, Alan Howard",United States,North America
+929,CanSemi,$1B,$981M,Guangzhou Industrial Investment Group,China,Asia
+930,FPL Technologies,$1B,$254M,MacRitchie Investments,India,Asia
+931,OVO Energy,$1B,$581M,Mitsubishi Corporation,United Kingdom,Europe
+932,Neon,$1B,$853M,M12 - Microsoft's Venture Fund,Brazil,South America
+933,Xingji Meizu,$1B,$276M,"Asia Investment Fund, Harvest Global Investments",China,Asia
+934,LONGi Hydrogen Energy,$1B,$138M,,,
+935,EverlyWell,$1B,$250M,Trish Costello,United States,North America
+936,Narwal Robotics,$1B,$14M,HongShan,China,Asia
+937,Included Health,$1B,$344M,The Carlyle Group,United States,North America
+938,Movable Ink,$1B,$97M,Silver Lake Waterman,United States,North America
+939,SingleStore,$1B,$414M,"Goldman Sachs, Prosperity7 Ventures",United States,North America
+940,Epirus,$1B,$287M,T. Rowe Price,United States,North America
+941,At-Bay,$1B,$296M,ION Crossover Partners,United States,North America
+942,Weidian Group,$1B,$368M,Tencent,China,Asia
+943,New Leshi Smart Home,$1B,$2B,"JD.com, Sunac China Holdings",China,Asia
+944,ONE Championship,$1B,$565M,Qatar Investment Authority,Singapore,Asia
+945,Employment Hero,$1B,$460M,TCV,Australia,Oceania
+946,Jaguar Microsystems,$1B,$0,Tencent,China,Asia
+947,GP Club,$1B,$67M,,South Korea,Asia
+948,Signifyd,$1B,$409M,Owl Rock Capital,United States,North America
+949,RIDI,$1B,$181M,GIC,South Korea,Asia
+950,stc pay,$1B,$200M,Western Union,Saudi Arabia,Asia
+951,Human Interest,$1B,$740M,"Baillie Gifford, Marshall Wace",United States,North America
+952,Athletic Greens,$1B,$115M,Alpha Wave Global,United States,North America
+953,Pilot,$1B,$172M,"Bezos Expeditions, Sequoia Capital",United States,North America
+954,Gymshark,$1B,$262M,General Atlantic,United Kingdom,Europe
+955,Intercom,$1B,$241M,Kleiner Perkins,United States,North America
+956,Yugabyte,$1B,$291M,Sapphire Ventures,United States,North America
+957,CoinTracker,$1B,$102M,Accel,United States,North America
+958,iTrustCapital Inc.,$1B,$128M,Left Lane Capital,United States,North America
+959,Konfio,$1B,$378M,"QED Investors, Tarsadia Capital",Mexico,North America
+960,Domestika,$1B,$130M,Zeev Ventures,United States,North America
+961,Betterment,$1B,$335M,Treasury,United States,North America
+962,Flock Freight,$1B,$399M,SoftBank Vision Fund,United States,North America
+963,Haihe Biopharma,$1B,$318M,Warburg Pincus,China,Asia
+964,Kr Space,$1B,$482M,"Gopher Asset Management, IDG Capital",China,Asia
+965,Loadsmart,$1B,$336M,SOFTBANK Latin America Ventures,United States,North America
+966,Stord,$1B,$325M,Franklin Templeton,United States,North America
+967,Doc.com,$1B,$300M,Silver Rock Group,United States,North America
+968,Lukka,$1B,$201M,Animoca Capital,United States,North America
+969,Linktree,$1B,$166M,"Coatue, Index Ventures",Australia,Oceania
+970,Zum,$1B,$341M,GIC,United States,North America
+971,DistroKid,$1B,$0,Insight Partners,United States,North America
+972,24M Technologies,$1B,$182M,Nuovo Plus,United States,North America
+973,Clipboard Health,$1B,$94M,Sequoia Capital,United States,North America
+974,Optibus,$1B,$260M,Volvo Group Venture Capital,Israel,Asia
+975,Equashield,$1B,$0,,United States,North America
+976,MasterControl,$1B,$150M,Sixth Street,United States,North America
+977,Ather Energy,$1B,$526M,NIIF,India,Asia
+978,Mapbox,$1B,$614M,SoftBank,United States,North America
+979,Keyfactor,$1B,$212M,Sixth Street,United States,North America
+980,Wilson Wolf Corporation,$1B,$257M,Bio-Techne,United States,North America
+981,BYD Semiconductor,$1B,$378M,,China,Asia
+982,Gemini,$1B,$424M,Draper Dragon,United States,North America
+983,1mg,$1B,$200M,Tata Digital,India,Asia
+984,The Good Glamm Group,$1B,$184M,Warburg Pincus,India,Asia
+985,Zhidou,$1B,$2B,Geely,China,Asia
+986,Juwan Technology,$1B,$166M,Guangzhou Automobile Group,China,Asia
+987,Purplle,$1B,$476M,"Abu Dhabi Investment Authority, PremjiInvest",India,Asia
+988,Talos,$1B,$145M,General Atlantic,United States,North America
+989,ClassDojo,$1B,$191M,Tencent,United States,North America
+990,Chipper Cash,$1B,$337M,Alameda Research,United States,North America
+991,Flipdish,$1B,$157M,Tencent,Ireland,Europe
+992,Incode Technologies,$1B,$257M,"General Atlantic, SoftBank",United States,North America
+993,Tackle,$1B,$148M,"Andreessen Horowitz, Coatue",United States,North America
+994,Kuaikan Manhua,$1B,$594M,Tencent,China,Asia
+995,Sidewalk Infrastructure Partners,$1B,$800M,StepStone Group,United States,North America
+996,Marshmallow,$1B,$116M,Hedosophia,United Kingdom,Europe
+997,Weights & Biases,$1B,$250M,"Daniel Gross, Nat Friedman",United States,North America
+998,Together AI,$1B,$229M,Salesforce Ventures,United States,North America
+999,Honor,$1B,$325M,Baillie Gifford,United States,North America
+1000,CaptivateIQ,$1B,$165M,"Accel, ICONIQ Growth",United States,North America
+1001,airSlate,$1B,$132M,G Squared,United States,North America
+1002,Codeium,$1B,$243M,General Catalyst,United States,North America
+1003,Clay,$1B,$102M,Meritech Capital Partners,United States,North America
+1004,Instabase,$1B,$292M,Qatar Investment Authority,United States,North America
+1005,SeatGeek,$1B,$400M,Accel,United States,North America
+1006,ETCP,$1B,$280M,Wanda E-Commerce,China,Asia
+1007,inDrive,$1B,$237M,Insight Partners,United States,North America
+1008,MicroPort CardioFlow,$1B,$130M,,China,Asia
+1009,Spiber,$1B,$585M,The Carlyle Group,Japan,Asia
+1010,Public,$1B,$414M,Accel,United States,North America
+1011,TBM,$1B,$181M,SK Group,Japan,Asia
+1012,Castore,$1B,$188M,Raine Ventures,United Kingdom,Europe
+1013,Moneyview,$1B,$188M,Accel,India,Asia
+1014,Clean Planet,$1B,$9M,Miura Co,Japan,Asia
+1015,Workhuman,$1B,$9M,Atlas Venture,Ireland,Europe
+1016,Viz,$1B,$292M,CIBC Innovation Banking,United States,North America
+1017,Mensa Brands,$1B,$218M,Alpha Wave Global,India,Asia
+1018,Gem,$1B,$148M,ICONIQ Growth,United States,North America
+1019,Copado,$1B,$271M,Insight Partners,United States,North America
+1020,MindTickle,$1B,$281M,SoftBank Vision Fund,United States,North America
+1021,Choco,$1B,$336M,G Squared,Germany,Europe
+1022,Ada,$1B,$191M,Spark Capital,Canada,North America
+1023,CarDekho,$1B,$508M,Navis Capital Partners,India,Asia
+1024,Berlin Brands Group,$1B,$800M,Ardian,Germany,Europe
+1025,SeekOut,$1B,$189M,Tiger Global Management,United States,North America
+1026,Qumulo,$1B,$347M,BlackRock Private Equity Partners,United States,North America
+1027,Offchain Labs,$1B,$124M,Lightspeed Venture Partners,United States,North America
+1028,Human Longevity,$1B,$370M,TVM Capital Healthcare,United States,North America
+1029,Multichain,$1B,$60M,Binance Labs,Singapore,Asia
+1030,SmartMore Corporation Limited,$1B,$300M,Hong Kong Investment Corporation Limited,China,Asia
+1031,Dianrong,$1B,$549M,"Affirma Capital, Standard Chartered Private Equity",China,Asia
+1032,BigPanda,$1B,$313M,"UBS, Wells Fargo Strategic Capital",United States,North America
+1033,iCarbonX,$1B,$200M,China Bridge Capital,China,Asia
+1034,Tealium,$1B,$264M,"Georgian, Silver Lake Waterman",United States,North America
+1035,Hailo,$1B,$341M,"Gil Agmon, Poalim Equity",Israel,Asia
+1036,Vectra AI,$1B,$353M,TCV,United States,North America
+1037,Merama,$1B,$349M,monashees,Mexico,North America
+1038,Iyuno-SDI,$1B,$184M,IMM Investment,United States,North America
+1039,Form Energy,$1B,$1B,T. Rowe Price,United States,North America
+1040,boAt,$1B,$108M,Qualcomm Ventures,India,Asia
+1041,Qdama,$1B,$142M,Hezhi Investment,China,Asia
+1042,Creatio,$1B,$268M,Sapphire Ventures,United States,North America
+1043,Helium,$1B,$365M,"Andreessen Horowitz, Tiger Global Management",United States,North America
+1044,AgentSync,$1B,$161M,"Craft Ventures, Valor Ventures",United States,North America
+1045,Oyster,$1B,$288M,ServiceNow Ventures,United States,North America
+1046,Unit,$1B,$170M,Insight Partners,United States,North America
+1047,Stori,$1B,$330M,"BAI capital, Notable Capital",Mexico,North America
+1048,Our Next Energy,$1B,$390M,Fifth Wall,United States,North America
+1049,Cart.com,$1B,$554M,Legacy Knight,United States,North America
+1050,EGYM,$1B,$580M,"L Catterton, Meritech Capital Partners",Germany,Europe
+1051,ZYBER 365,$1B,$100M,SRAM & MRAM,India,Asia
+1052,Livspace,$1B,$427M,Kohlberg Kravis Roberts,India,Asia
+1053,Droom,$1B,$333M,rapper Badshah,India,Asia
+1054,XLMEC,$1B,$1B,China Integrated Circuit Industry Investment Fund (CICF),China,Asia
+1055,Flip,$1B,$239M,Streamlined Ventures,United States,North America
+1056,Shiprocket,$1B,$425M,KdT Ventures,India,Asia
+1057,Mews,$1B,$342M,Kinnevik,United Kingdom,Europe
+1058,Rohlik,$1B,$785M,European Bank for Reconstruction and Development,Czech Republic,Europe
+1059,V3 Group,$1B,$268M,Kohlberg Kravis Roberts,Singapore,Asia
+1060,Arqiva,$1B,$0,CPP Investments,United Kingdom,Europe
+1061,Proteus Digital Health,$1B,$460M,Harbin Gloria Pharmaceuticals,United States,North America
+1062,Modern Health,$1B,$167M,Founders Fund,United States,North America
+1063,Innovusion,$1B,$278M,Hermitage Capital,United States,North America
+1064,Fenergo,$1B,$760M,"Astorg, Bridgepoint",Ireland,Europe
+1065,Alisports,$1B,$174M,YF Capital,China,Asia
+1066,Replit,$1B,$222M,Craft Ventures,United States,North America
+1067,Alphaeon,$1B,$223M,Sailing Capital,United States,North America
+1068,E-Life Financial Services,$1B,$356M,H Capital Advance,China,Asia
+1069,UnionTech,$1B,$279M,Beijing E-town International Investment & Development,China,Asia
+1070,CloudBees,$1B,$236M,Goldman Sachs Asset Management,United States,North America
+1071,Happy Money,$1B,$337M,TruStage Ventures,United States,North America
+1072,Elemy,$1B,$323M,"Goodwater Capital, PremjiInvest",United States,North America
+1073,Rebellion Defense,$1B,$150M,"Insight Partners, Venrock",United States,North America
+1074,Boom Supersonic,$1B,$347M,NEOM Investment Fund,United States,North America
+1075,Guideline,$1B,$339M,General Atlantic,United States,North America
+1076,DevRev,$1B,$151M,"Khosla Ventures, Mayfield Fund",United States,North America
+1077,Dotc United Group,$1B,$395M,Zeus Entertainment,China,Asia
+1078,Spendesk,$1B,$312M,Tiger Global Management,France,Europe
+1079,Jiuxian,$1B,$250M,HongShan,China,Asia
+1080,TalkingData,$1B,$142M,VCI Global,China,Asia
+1081,DANA,$1B,$555M,Lazada Group,Indonesia,Asia
+1082,Tines,$1B,$271M,GS Growth,Ireland,Europe
+1083,SKIO Matrix,$1B,$299M,IDG Capital,China,Asia
+1084,RootCloud,$1B,$195M,IDG Capital,China,Asia
+1085,Chainguard,$1B,$256M,"IVP, Lightspeed Venture Partners",United States,North America
+1086,Enable,$1B,$276M,Lightspeed Venture Partners,United States,North America
+1087,Teld New Energy,$1B,$396M,"CDH Investments, China Reform Holdings Corporation",China,Asia
+1088,NewsBreak,$1B,$151M,Francisco Partners,United States,North America
+1089,L&P Cosmetic,$1B,$33M,Credit Suisse,South Korea,Asia
+1090,Nexthink,$1B,$346M,Permira,Switzerland,Europe
+1091,Chemao,$1B,$199M,ZHEFU Holding,China,Asia
+1092,Inspur Cloud,$1B,$3B,"CCB International, China Minsheng Bank",China,Asia
+1093,Staffbase,$1B,$306M,General Atlantic,Germany,Europe
+1094,Chief,$1B,$140M,CapitalG,United States,North America
+1095,Apna,$1B,$193M,Tiger Global Management,India,Asia
+1096,CAIS,$1B,$406M,Hamilton Lane,United States,North America
+1097,IntelyCare,$1B,$171M,Janus Henderson Investors,United States,North America
+1098,G2,$1B,$258M,"Permira, Salesforce Ventures",United States,North America
+1099,Carousell,$1B,$375M,GoTo Group,Singapore,Asia
+1100,People.ai,$1B,$200M,"Akkadian Ventures, Mubadala Capital Ventures",United States,North America
+1101,eSentire,$1B,$186M,"Caisse de Depot et Placement du Quebec, Georgian",Canada,North America
+1102,Beyond Identity,$1B,$205M,Evolution Equity Partners,United States,North America
+1103,Zego,$1B,$282M,"DST Global, General Catalyst",United Kingdom,Europe
+1104,Acko,$1B,$458M,General Atlantic,India,Asia
+1105,Karat,$1B,$169M,Serena Williams,United States,North America
+1106,Sunbit,$1B,$210M,Group 11,United States,North America
+1107,SonderMind,$1B,$183M,"Drive Capital, PremjiInvest",United States,North America
+1108,Pharmapacks,$1B,$433M,The Carlyle Group,United States,North America
+1109,GlobalBees,$1B,$185M,PremjiInvest,India,Asia
+1110,Yijiupi,$1B,$511M,Tencent,China,Asia
+1111,Fundbox,$1B,$404M,Healthcare of Ontario Pension Plan (HOOPP),United States,North America
+1112,LEAD,$1B,$166M,"GSV Ventures, WestBridge Capital",India,Asia
+1113,Rightway,$1B,$239M,Khosla Ventures,United States,North America
+1114,Infobip,$1B,$300M,One Equity Partners,United Kingdom,Europe
+1115,Imply,$1B,$215M,Thoma Bravo,United States,North America
+1116,Wasabi Technologies,$1B,$397M,"Azura Partners, SiS Distribution Thailand",United States,North America
+1117,Teleport,$1B,$169M,Bessemer Venture Partners,United States,North America
+1118,Material Security,$1B,$162M,Founders Fund,United States,North America
+1119,Caribou,$1B,$189M,Goldman Sachs,United States,North America
+1120,Rapido,$1B,$540M,Prosus Ventures,India,Asia
+1121,Lendbuzz,$1B,$222M,Group1001,United States,North America
+1122,Deputy,$1B,$159M,Express Employment Professionals,Australia,Oceania
+1123,Tango Me,$1B,$358M,Alibaba Group,United States,North America
+1124,Humanity Protocol,$1B,$52M,"Jump Crypto, Pantera Capital",,
+1125,Invoca,$1B,$201M,Silver Lake Waterman,United States,North America
+1126,Nowports,$1B,$243M,SOFTBANK Latin America Ventures,Mexico,North America
+1127,Recover,$1B,$100M,Goldman Sachs Asset Management,Spain,Europe
+1128,Daily Harvest,$1B,$120M,"Lone Pine Capital, Suttona Capital",United States,North America
+1129,Dream Security,$1B,$154M,Bain Capital Ventures,Israel,Asia
+1130,The Bank of London,$1B,$185M,Mangrove Capital Partners,United Kingdom,Europe
+1131,Letu,$1B,$30M,CICC Capital,China,Asia
+1132,Nxin,$1B,$53M,"Beijing Junenghesheng Industry Investment Fund, Beijing Shuju Xinrong Investment Management",China,Asia
+1133,Pennylane,$1B,$154M,"DST Global, Sequoia Capital",France,Europe
+1134,Earnix,$1B,$98M,Insight Partners,Israel,Asia
+1135,LeCloud,$1B,$153M,Chongqing Industry Investment Fund,China,Asia
+1136,Amarenco,$1B,$515M,Arjun Infrastructure Partners,Ireland,Europe
+1137,Cirkul,$1B,$112M,SC.Holdings,United States,North America
+1138,Rivigo,$1B,$269M,"Elevation Capital, Spring Canter Investment",India,Asia
+1139,Veepee,$1B,$0,Qatar Holding,France,Europe
+1140,MobileCoin,$1B,$107M,"Future Ventures, General Catalyst",United States,North America
+1141,Radius Payment Solutions,$1B,$200M,Inflexion,United Kingdom,Europe
+1142,Scivita Medical Technology,$1B,$124M,"GL Ventures LLC, Lilly Asia Ventures",China,Asia
+1143,Yi'an Holdings,$1B,$294M,Zhongling Shanghai Investment,China,Asia
+1144,Branch,$1B,$230M,Weatherford Capital,United States,North America
+1145,Density,$1B,$217M,Kleiner Perkins,United States,North America
+1146,Mixpanel,$1B,$277M,Bain Capital Tech Opportunities,United States,North America
+1147,Sendbird,$1B,$221M,Steadfast Financial,United States,North America
+1148,Plenty,$1B,$941M,"JS Capital Management, One Madison Group",United States,North America
+1149,Luoji Siwei,$1B,$144M,ZhenFund,China,Asia
+1150,Zopa,$1B,$974M,A.P. Moller Holding,United Kingdom,Europe
+1151,Element Biosciences,$1B,$678M,Wellington Management,United States,North America
+1152,Bluepha,$1B,$303M,Zhongping Capital,China,Asia
+1153,Astronergy,$1B,$553M,Yunhao Capital,China,Asia
+1154,Chint New Energy,$1B,$219M,Yunhao Capital,China,Asia
+1155,Aijia Home Furnishing Products,$1B,$146M,Tiantu Capital,China,Asia
+1156,B&C Chemical,$1B,$134M,"China Development Bank Capital, Zhongping Capital",China,Asia
+1157,Miaoshou Doctor,$1B,$946M,"Sequoia Capital, Tencent",China,Asia
+1158,Splashtop,$1B,$114M,Sapphire Ventures,United States,North America
+1159,Veritas Finance,$1B,$320M,Multiples,India,Asia
+1160,Chinac.com,$1B,$379M,Orient Securities Capital Investment,China,Asia
+1161,Morning Consult,$1B,$91M,Advance Venture Partners,United States,North America
+1162,"Kong Studios, Inc.",$1B,$65M,DSC Investment,United States,North America
+1163,Qiyuan Core Power Technology,$1B,$359M,Contemporary Amperex Technology,China,Asia
+1164,Electric,$1B,$212M,Harmonic Growth Partners,United States,North America
+1165,Juanpi,$1B,$136M,"China Merchants Bank, Tiantu Capital",China,Asia
+1166,NoBroker,$1B,$428M,Google,India,Asia
+1167,Gaussian Robot,$1B,$395M,Jintuo Capital,China,Asia
+1168,Zihaiguo,$1B,$80M,Beijing Taikang Investment,China,Asia
+1169,Aqara,$1B,$272M,Shenzhen Capital Group,China,Asia
+1170,TrustDecision,$1B,$252M,China Merchants Venture Capital,China,Asia
+1171,Polarium,$1B,$223M,AMF,Sweden,Europe
+1172,Perfios Software Solutions,$1B,$435M,Teachers’ Venture Growth,India,Asia
+1173,NAVER Z,$1B,$208M,Krafton,South Korea,Asia
+1174,Gelato,$1B,$269M,Insight Partners,Norway,Europe
+1175,Lanhu,$1B,$234M,GGV Capital,China,Asia
+1176,InCred,$1B,$239M,Ranjan Pai,India,Asia
+1177,Infarm,$1B,$600M,Qatar Investment Authority,Germany,Europe
+1178,InvestCloud,$1B,$54M,"Clearlake Capital Group, Motive Partners",United States,North America
+1179,Revolution Precrafted,$1B,$15M,500 Global,Philippines,Asia
+1180,Sennder,$1B,$340M,Baillie Gifford,Germany,Europe
+1181,Womai,$1B,$330M,Taikang Insurance Group,China,Asia
+1182,Haydon,$1B,$100M,"Hillhouse Investment, Tencent",China,Asia
+1183,Lamabang,$1B,$130M,Suning.com,China,Asia
+1184,1KMXC,$1B,$86M,Haoteng Asia,China,Asia
+1185,Vise,$1B,$128M,Ribbit Capital,United States,North America
+1186,Augury,$1B,$294M,Baker Hughes,United States,North America
+1187,Amount,$1B,$313M,Curql,United States,North America
+1188,Lydia,$1B,$260M,"Accel, Dragoneer Investment Group",France,Europe
+1189,SmartMi International Limited,$1B,$50M,GIC,China,Asia
+1190,Wifi Skeleton Key,$1B,$52M,Eight Roads Ventures,China,Asia
+1191,Pentera,$1B,$190M,K1 Investment Management,Israel,Asia
+1192,Meero,$1B,$293M,"Avenir, Eurazeo",France,Europe
+1193,Huasheng Haoche,$1B,$450M,Crescent Group (Crescent Point),China,Asia
+1194,Swile,$1B,$326M,"Hedosophia, SoftBank",France,Europe
+1195,Emplifi,$1B,$0,Sixth Street,United States,North America
+1196,CargoX,$1B,$390M,"SOFTBANK Latin America Ventures, Tencent",Brazil,South America
+1197,XTransfer,$1B,$168M,D1 Capital Partners,China,Asia
+1198,Lianshang Literature,$1B,$20M,HOPU Investment Management Company,China,Asia
+1199,GeoComply,$1B,$0,"Arctos Sports Partners, Norwest Venture Partners",Canada,North America
+1200,Carson Group,$1B,$0,Bain Capital,United States,North America
+1201,Iodine Software,$1B,$0,Advent International,United States,North America
+1202,Kendra Scott Design,$1B,$0,65 Equity Partners,United States,North America
+1203,VNG,$1B,$500K,CyberAgent Capital,Vietnam,Asia
+1204,JD.ID,$1B,$0,Gojek,Indonesia,Asia
+1205,Grupo Axo,$1B,$0,BlackRock Private Equity Partners,Mexico,North America
+1206,Xiaoice,$1B,$138M,Hillhouse Investment,China,Asia
+1207,Quikr,$1B,$334M,"Kinnevik, Tiger Global Management",India,Asia
+1208,Beamery,$1B,$223M,Teachers’ Venture Growth,United Kingdom,Europe
+1209,Factorial,$1B,$220M,Atomico,Spain,Europe
+1210,Open Financial Technologies,$1B,$187M,IIFL Finance,India,Asia
+1211,MSquared,$1B,$150M,"Andreessen Horowitz, SoftBank Vision Fund",United Kingdom,Europe
+1212,UPSIDE Foods,$1B,$581M,"Abu Dhabi Growth Fund, Temasek Holdings",United States,North America
+1213,NexHealth,$1B,$177M,Buckley Ventures,United States,North America
+1214,Instabox,$1B,$292M,Swedbank Robur,Sweden,Europe
+1215,Divergent,$1B,$593M,Hexagon,United States,North America
+1216,iSpot.tv,$1B,$383M,Goldman Sachs,United States,North America
+1217,Good Choice Company,$1B,$39M,,South Korea,Asia
+1218,reMarkable,$1B,$24M,Spark Capital,Norway,Europe
+1219,Habi,$1B,$316M,"Homebrew, SOFTBANK Latin America Ventures",Colombia,South America
+1220,Opn,$1B,$220M,"SCB 10X, SPARX Group",Japan,Asia
+1221,Semperis,$1B,$373M,"Hercules Capital, JP Morgan",United States,North America
+1222,TransferMate,$1B,$130M,RPMI Railpen,Ireland,Europe
+1223,Velocity Global,$1B,$500M,"Eldridge Industries, Norwest Venture Partners",United States,North America
+1224,JupiterOne,$1B,$119M,Tribe Capital,United States,North America
+1225,Ultima Genomics,$1B,$600M,,United States,North America
+1226,Immuta,$1B,$258M,Databricks Ventures,United States,North America
+1227,EcoVadis,$1B,$733M,"Astorg, Beyond Net Zero",France,Europe
+1228,Vendr,$1B,$216M,"Craft Ventures, SoftBank Vision Fund",United States,North America
+1229,Turntide Technologies,$1B,$266M,Climate Investment,United States,North America
+1230,MNTN,$1B,$186M,"BlackRock, Fidelity",United States,North America
+1231,thatgamecompany,$1B,$29M,"Sequoia Capital, TPG",United States,North America
+1232,Zongmu,$1B,$376M,"Caitong Capital, Dongyang State-Owned Assets Investment",China,Asia
+1233,Yunyinggu,$1B,$121M,HongShan,China,Asia
+1234,Visby Medical,$1B,$328M,Lightrock,United States,North America
+1235,FourKites,$1B,$242M,Mitsui & Co,United States,North America
+1236,Flexe,$1B,$263M,BlackRock,United States,North America
+1237,Tebra,$1B,$137M,Golub Capital,United States,North America
+1238,JLSemi,$1B,$90M,"Renchen Semiconductor, Summitview Capital",China,Asia
+1239,Exterro,$1B,$100M,"Coller Capital, Glendower Capital",United States,North America
+1240,Prodege,$1B,$60M,Great Hill Partners,United States,North America
+1241,Paystand,$1B,$98M,NewView Capital,United States,North America
+1242,Freenome,$1B,$1B,Roche,United States,North America
+1243,Flow,$1B,$350M,Andreessen Horowitz,United States,North America
+1244,SAIC Mobility,$1B,$193M,SAIC Motor,China,Asia
+1245,TerraPower,$1B,$750M,"Bill Gates, SK Group",United States,North America
+1246,Zebec,$1B,$43M,"Distributed Global, Solana Ventures",United States,North America
+1247,Terawatt Infrastructure,$1B,$1B,Vision Ridge Capital Partners,United States,North America
+1248,Swiftly,$1B,$216M,BRV Capital Management,United States,North America
+1249,LINE MAN Wongnai,$1B,$375M,"GIC, LINE Plus Corporation",Thailand,Asia
+1250,Satispay,$1B,$532M,Addition,Italy,Europe
+1251,Stability AI,$1B,$181M,Intel,United Kingdom,Europe
+1252,Xanadu,$1B,$231M,Georgian,Canada,North America
+1253,Wayve,$1B,$1B,Uber,United Kingdom,Europe
+1254,Cambridge Mobile Telematics,$1B,$503M,SoftBank Vision Fund,United States,North America
+1255,Gokin Solar,$1B,$620M,"IDG Capital, Zhuhai Huafa Group",Japan,Asia
+1256,MNT-Halan,$1B,$478M,International Finance Corporation,Egypt,Africa
+1257,Atmosphere,$1B,$194M,"S3 Ventures, Sageview Capital",United States,North America
+1258,Character.ai,$1B,$150M,Andreessen Horowitz,,
+1259,SiEngine Technology,$1B,$220M,China State-owned Enterprise Structural Adjustment Fund,China,Asia
+1260,Adept AI,$1B,$415M,"General Catalyst, Spark Capital",United States,North America
+1261,Flo Health,$1B,$276M,General Atlantic,United Kingdom,Europe
+1262,Sygnum,$1B,$188M,Fulgur Ventures,Switzerland,Europe
+1263,Blueground,$1B,$261M,Susquehanna Private Equity Investments,United States,North America
+1264,Xreal,$1B,$306M,Alibaba Group,China,Asia
+1265,BFMeta,$1B,$0,Goldman Sachs,United States,North America
+1266,Ohmium,$1B,$295M,3M,United States,North America
+1267,Avenue One,$1B,$100M,WestCap,United States,North America
+1268,Gradiant,$1B,$392M,"BoltRock Holdings, Centaurus Capital LP",United States,North America
+1269,Restaurant365,$1B,$438M,ICONIQ Growth,United States,North America
+1270,GO,$1B,$72M,"Fidelity International, Okayama Kotsu",Japan,Asia
+1271,DocPlanner,$1B,$140M,"GS Growth, One Peak",Poland,Europe
+1272,VectorBuilder,$1B,$58M,Guangzhou Yuexiu Industrial Investment Fund,United States,North America
+1273,Agibot,$1B,$85M,Baidu Capital,,
+1274,1Komma5°,$1B,$647M,"CalSTRS, G2 Venture Partners",Germany,Europe
+1275,Typeface,$1B,$165M,Salesforce Ventures,United States,North America
+1276,Pigment,$1B,$396M,ICONIQ Growth,France,Europe
+1277,Flashbots,$1B,$60M,Paradigm,Cayman Islands,North America
+1278,Fullcryo,$1B,$158M,"CCB Equity, Chengtong Mixed Reform",China,Asia
+1279,Imbue,$1B,$232M,Astera Institute,United States,North America
+1280,Kin Insurance,$1B,$266M,Activate Capital Partners,United States,North America
+1281,Generate Biomedicines,$1B,$693M,Samsung Life Science Fund,United States,North America
+1282,Stegra,$1B,$3B,"AMF, GIC",Sweden,Europe
+1283,Verkor,$1B,$1B,Macquarie Group,France,Europe
+1284,Electric Hydrogen,$1B,$602M,"Energy Impact Partners, Fifth Wall",United States,North America
+1285,Lyten,$1B,$360M,The Luxembourg Future Fund,United States,North America
+1286,Prove,$1B,$246M,"Capital One Ventures, MassMutual Ventures",United States,North America
+1287,Rong Semiconductor,$1B,$0,"Xing Wang, Yu Renrong",China,Asia
+1288,Metropolis,$1B,$1B,"3L Capital, Eldridge Industries",United States,North America
+1289,Anhui YOFC Advanced Semiconductor,$1B,$525M,,China,Asia
+1290,01.AI,$1B,$0,Alibaba Cloud,,
+1291,Rokid,$1B,$643M,Wuhan Jiangxia Technology Investment,United States,North America
+1292,MaintainX,$1B,$104M,Bain Capital Ventures,United States,North America
+1293,Andalusia Labs,$1B,$52M,Lightspeed Venture Partners,United States,North America
+1294,Tamara,$1B,$556M,"Sanabil, Saudi National Bank",Saudi Arabia,Asia
+1295,Vestwell,$1B,$238M,Lightspeed Venture Partners,United States,North America
+1296,SolarSpace,$1B,$412M,Yingke Capital,China,Asia
+1297,Silicon Box,$1B,$507M,Prysm Capital,Singapore,Asia
+1298,Insitro,$1B,$643M,CPP Investments,United States,North America
+1299,Picnic,$1B,$1B,Bill & Melinda Gates Foundation,The Netherlands,Europe
+1300,Krutrim,$1B,$280M,Bhavish Aggarwal,India,Asia
+1301,DataSnipper,$1B,$100M,Index Ventures,The Netherlands,Europe
+1302,Yuanxin Satellite,$1B,$944M,China Development Bank,China,Asia
+1303,Bugcrowd,$1B,$181M,General Catalyst,United States,North America
+1304,Polyhedra Network,$1B,$45M,Polychain,United States,North America
+1305,Uzum,$1B,$52M,FinSight Ventures,Uzbekistan,Asia
+1306,IntraBio,$1B,$51M,,United Kingdom,Europe
+1307,io.net,$1B,$30M,Hack VC,United States,North America
+1308,QI Tech,$1B,$261M,General Atlantic,Brazil,South America
+1309,Xaira Therapeutics,$1B,$1B,"ARCH Venture Partners, Foresite Capital",United States,North America
+1310,Farcaster,$1B,$180M,Paradigm,United States,North America
+1311,Monad,$1B,$244M,OKX Ventures,United States,North America
+1312,Snorkel AI,$1B,$135M,QBE Ventures,United States,North America
+1313,Aqua Security,$1B,$325M,Evolution Equity Partners,Israel,Asia
+1314,G42,$1B,$2B,Microsoft,United Arab Emirates,Asia
+1315,Feedzai,$1B,$277M,Conexo Ventures,Portugal,Europe
+1316,SnapLogic,$1B,$371M,Sixth Street,United States,North America
+1317,CHEQ,$1B,$182M,Tiger Global Management,Israel,Asia
+1318,Ample,$1B,$301M,Mitsubishi Corporation,United States,North America
+1319,Grover,$1B,$283M,Energy Impact Partners,Germany,Europe
+1320,FLASH,$1B,$319M,Vista Equity Partners,United States,North America
+1321,Hasura,$1B,$137M,Greenoaks,India,Asia
+1322,Licious,$1B,$490M,Amansa Capital,India,Asia
+1323,Mux,$1B,$174M,Coatue,United States,North America
+1324,Carro,$1B,$595M,Woori Venture Partners,Singapore,Asia
+1325,Minute Media,$1B,$260M,Dawn Capital,United Kingdom,Europe
+1326,Vedantu,$1B,$292M,Stride Ventures,India,Asia
+1327,Taxfix,$1B,$330M,Ontario Teachers' Pension Plan,Germany,Europe
+1328,Printful,$1B,$130M,Bregal Sagemount,United States,North America
+1329,OneFootball,$1B,$381M,Major League Soccer,Germany,Europe
+1330,EmployerDirect Healthcare,$1B,$1M,Dundon Capital Partners,United States,North America
+1331,TechStyle Fashion Group,$1B,$336M,Shining Capital,United States,North America
+1332,Mobvoi,$1B,$264M,"Nanjing Economic Development Juzhi Technology Innovation Investment Partnership, ZGC Group",China,Asia
+1333,Moka,$1B,$144M,Tiger Global Management,China,Asia
+1334,Builder.ai,$1B,$445M,Qatar Investment Authority,United Kingdom,Europe
+1335,Zhaogang.com,$1B,$379M,West Fund,China,Asia
+1336,MegaRobo,$1B,$426M,"Asia Investment Capital, GGV Capital",China,Asia
+1337,Ninebot,$1B,$247M,"China Mobile Innovation Industry Fund, SDIC Fund Management",China,Asia
+1338,Beisen,$1B,$388M,"Fidelity International, Goldman Sachs",China,Asia
+1339,HT Aero,$1B,$650M,"5Y Capital, IDG Capital",China,Asia
+1340,Parametrix.ai,$1B,$130M,HongShan,China,Asia
+1341,Shippo,$1B,$154M,Bessemer Venture Partners,United States,North America
+1342,Verily,$1B,$4B,"Alphabet, Google",United States,North America
+1343,Qiniu,$1B,$397M,YF Capital,China,Asia
+1344,Raisin,$1B,$271M,M&G Investments,Germany,Europe
+1345,LeadSquared,$1B,$188M,WestBridge Capital,India,Asia
+1346,Bluecore,$1B,$263M,Georgian,United States,North America
+1347,Genies,$1B,$267M,Silver Lake,United States,North America
+1348,Qingju,$1B,$2B,Didi,China,Asia
+1349,Shouqi Limousine & Chauffeur,$1B,$140M,"Baidu, NIO Capital",China,Asia
+1350,VulcanForms,$1B,$355M,D1 Capital Partners,United States,North America
+1351,Unstoppable Domains,$1B,$72M,Pantera Capital,United States,North America
+1352,Sightline Payments,$1B,$347M,JP Morgan,United States,North America
+1353,Dune Analytics,$1B,$79M,Coatue,Norway,Europe
+1354,POIZON,$1B,$0,DST Global,Hong Kong,Asia
+1355,assembly,$1B,$0,Advent International,United States,North America
+1356,BillionToOne,$1B,$391M,PremjiInvest,United States,North America
+1357,Speak,$1B,$152M,Accel,United States,North America
+1358,Create Music Group,$1B,$165M,Flexpoint Ford,United States,North America
+1359,Aven,$1B,$142M,"General Catalyst, Khosla Ventures",United States,North America
+1360,Huma,$1B,$292M,AstraZeneca,United Kingdom,Europe
+1361,Saronic,$1B,$245M,Andreessen Horowitz,United States,North America
+1362,Altana,$1B,$322M,US Innovative Technology Fund,United States,North America
+1363,Agrovision,$1B,$192M,Aliment Capital,United States,North America
+1364,Cosm,$1B,$250M,,United States,North America
+1365,EliseAI,$1B,$142M,Sapphire Ventures,United States,North America
+1366,Kiteworks,$1B,$591M,"Insight Partners, Sixth Street",United States,North America
+1367,Svante,$1B,$432M,Canada Growth Fund Investment Management,Canada,North America
+1368,World Labs,$1B,$230M,"Andreessen Horowitz, New Enterprise Associates",United States,North America
+1369,Rentberry,$1B,$124M,"Berkeley Hills Capital, GTM Capital",United States,North America
+1370,Twelve,$1B,$798M,"Capricorn Investment Group, Pulse Fund",United States,North America
+1371,HIF Global,$1B,$480M,Mitsui O.S.K. Lines,Chile,South America
+1372,EvenUp,$1B,$221M,Bain Capital Ventures,United States,North America
+1373,Nimble Robotics,$1B,$221M,"Cedar Pine, FedEx",United States,North America
+1374,Moniepoint,$1B,$228M,Visa,United Kingdom,Europe
+1375,Pacific Fusion,$1B,$900M,"Alumni Ventures, General Catalyst",United States,North America
+1376,Halcyon,$1B,$184M,Evolution Equity Partners,United States,North America
+1377,Lighthouse,$1B,$470M,Kohlberg Kravis Roberts,United Kingdom,Europe
+1378,Ayar Labs,$1B,$372M,"Advent International, Alumni Ventures",United States,North America
+1379,StepStar,$1B,$3M,Shanghai State-owned Capital Investment,China,Asia
+1380,Cera,$1B,$249M,"BDT & MSD Partners, Schroders Capital",United Kingdom,Europe
+1381,Truveta,$1B,$515M,Microsoft,United States,North America
+1382,Loft Orbital,$1B,$326M,"AXIAL Partners, Tikehau Capital",United States,North America
+1383,QuEra Computing,$1B,$247M,SoftBank Vision Fund,United States,North America
+1384,Palmetto Clean Technology,$1B,$565M,TPG Rise Climate Fund,United States,North America
+1385,Moody,$1B,$215M,"5Y Capital, Kohlberg Kravis Roberts",China,Asia
+1386,Mythical Games,$1B,$297M,Alumni Ventures,United States,North America
+1387,BigID,$1B,$306M,Riverwood Capital,United States,North America
+1388,Shift Technology,$1B,$320M,Guidewire Software,France,Europe
+1389,Turo,$1B,$498M,"Allen & Company, Manhattan Venture Partners (MVP)",United States,North America
+1390,LetsGetChecked,$1B,$448M,Optum Ventures,United States,North America
+1391,Climeworks,$1B,$784M,"GIC, Partners Group",Switzerland,Europe
+1392,Stax,$1B,$263M,Fulcrum Equity Partners,United States,North America
+1393,Oxyzo,$1B,$200M,"Alpha Wave Global, Creation Investments Capital Management, LLC",India,Asia
+1394,Teya,$1B,$1B,Accel,United Kingdom,Europe
+1395,Payhawk,$1B,$239M,Lightspeed Venture Partners,United Kingdom,Europe
+1396,Esusu,$1B,$145M,SoftBank Vision Fund,United States,North America
+1397,Tarana Wireless,$1B,$426M,Digital Alpha,United States,North America
+1398,Savage X Fenty,$1B,$310M,Neuberger Berman,United States,North America
+1399,Omada Health,$1B,$449M,Fidelity,United States,North America
+1400,BlueVoyant,$1B,$666M,Liberty Strategic Capital,United States,North America
+1401,UST,$1B,$250M,Temasek Holdings,United States,North America
+1402,Securonix,$1B,$1B,Vista Equity Partners,United States,North America
+1403,Plus,$1B,$520M,"ClearVue Partners, FountainVest Partners",United States,North America
+1404,Tractable,$1B,$185M,SoftBank Vision Fund,United Kingdom,Europe
+1405,PPRO,$1B,$463M,"Eldridge Industries, JP Morgan",United Kingdom,Europe
+1406,Eat Just,$1B,$465M,"The Ahimsa Foundation, VegInvest",United States,North America
+1407,Sift,$1B,$157M,Insight Partners,United States,North America
+1408,BostonGene,$1B,$200M,NEC Corporation,United States,North America
+1409,Xendit,$1B,$535M,"Coatue, Insight Partners",Indonesia,Asia
+1410,Gauntlet,$1B,$45M,Ribbit Capital,United States,North America
+1411,Aibee,$1B,$273M,Xiaomi,China,Asia
+1412,ShipBob,$1B,$331M,Bain Capital Ventures,United States,North America
+1413,Picsart,$1B,$195M,SoftBank Vision Fund,United States,North America
+1414,Darwinbox,$1B,$127M,State Bank of India,India,Asia
+1415,Fabric,$1B,$336M,Temasek Holdings,United States,North America
+1416,Visier,$1B,$217M,Goldman Sachs Asset Management,Canada,North America
+1417,PandaDoc,$1B,$51M,"G Squared, OMERS Growth Equity",United States,North America
+1418,Sisense,$1B,$275M,Insight Partners,United States,North America
+1419,Forte,$1B,$910M,Kora,United States,North America
+1420,Jellysmack,$1B,$16M,SoftBank Vision Fund,United States,North America
+1421,Timescale,$1B,$181M,Tiger Global Management,United States,North America
+1422,Amperity,$1B,$187M,HighSage Ventures,United States,North America
+1423,Ivalua,$1B,$134M,"Ardian, Tiger Global Management",France,Europe
+1424,Commonwealth Fusion,$1B,$2B,Tiger Global Management,United States,North America
+1425,Clearcover,$1B,$406M,Eldridge Industries,United States,North America
+1426,Facily,$1B,$502M,"Goodwater Capital, Prosus & Naspers",Brazil,South America
+1427,Thirty Madison,$1B,$211M,HealthQuest Capital,United States,North America
+1428,Nature's Fynd,$1B,$463M,SoftBank Vision Fund,United States,North America
+1429,Standard Cognition,$1B,$239M,SoftBank Vision Fund,United States,North America
+1430,Resilience,$1B,$2B,Mubadala,United States,North America
+1431,OfferUp,$1B,$381M,Pobts,United States,North America
+1432,Ajaib,$1B,$246M,DST Global,Indonesia,Asia
+1433,Wisk Aero,$1B,$450M,The Boeing Company,United States,North America
+1434,Binance,$1B,$89K,"Black Hole Capital, Funcity Capital",Malta,Europe
+1435,Scandit,$1B,$273M,Warburg Pincus,Switzerland,Europe
+1436,PatSnap,$1B,$352M,"SoftBank Vision Fund, Tencent",Singapore,Asia
+1437,Quizlet,$1B,$62M,General Atlantic,United States,North America
+1438,Interos,$1B,$175M,Blue Owl,United States,North America
+1439,C2FO,$1B,$538M,Third Point Ventures,United States,North America
+1440,Axelar Network,$1B,$64M,Crypto.com Capital,Canada,North America
+1441,Masterworks,$1B,$110M,Left Lane Capital,United States,North America
+1442,Hotmart,$1B,$127M,TCV,The Netherlands,Europe
+1443,YipitData,$1B,$492M,The Carlyle Group,United States,North America
+1444,Bringg,$1B,$185M,Insight Partners,Israel,Asia
+1445,Clara,$1B,$172M,General Catalyst,Mexico,North America
+1446,Entrata,$1B,$507M,"Ryan Smith, Silver Lake",United States,North America
+1447,CommerceIQ,$1B,$196M,SoftBank Vision Fund,United States,North America
+1448,EquipmentShare,$1B,$702M,BDT & MSD Partners,United States,North America
+1449,Betterfly,$1B,$205M,Glade Brook Capital Partners,Chile,South America
+1450,Newsela,$1B,$172M,"Franklin Templeton, TCV",United States,North America
+1451,Sidecar Health,$1B,$328M,Koch Disruptive Technologies,United States,North America
+1452,Expel,$1B,$289M,"CapitalG, Paladin Capital Group",United States,North America
+1453,EBANX,$1B,$460M,Advent International,Brazil,South America
+1454,Owkin,$1B,$304M,Bristol-Myers Squibb,United States,North America
+1455,GoGuardian,$1B,$200M,Tiger Global Management,United States,North America
+1456,FreshBooks,$1B,$156M,Accomplice,Canada,North America
+1457,WeLab,$1B,$875M,Allianz X,Hong Kong,Asia
+1458,Cider,$1B,$140M,DST Global,Hong Kong,Asia
+1459,Omio,$1B,$376M,"Kinnevik, Temasek Holdings",Germany,Europe
+1460,MinIO,$1B,$126M,Intel Capital,United States,North America
+1461,Stytch,$1B,$126M,Coatue,United States,North America
+1462,Mark43,$1B,$269M,"The Spruce House Partnership, Tiger Global Management",United States,North America
+1463,ReliaQuest,$1B,$330M,Kohlberg Kravis Roberts,United States,North America
+1464,Evidation Health,$1B,$259M,"Kaiser Permanente Ventures, OMERS Private Equity",United States,North America
+1465,Glia,$1B,$152M,Insight Partners,United States,North America
+1466,FabFitFun,$1B,$162M,Milano Investment Partners SGR,United States,North America
+1467,Dental Monitoring,$1B,$232M,Mérieux Equity Partners,France,Europe
+1468,Kopi Kenangan,$1B,$333M,Tybourne Capital Management,Indonesia,Asia
+1469,Assent,$1B,$534M,Vista Equity Partners,Canada,North America
+1470,Movile,$1B,$588M,Prosus Ventures,Brazil,South America
+1471,Solo.io,$1B,$172M,Altimeter Capital,United States,North America
+1472,Immunai,$1B,$295M,Koch Disruptive Technologies,United States,North America
+1473,Chrono24,$1B,$206M,Cristiano Ronaldo,Germany,Europe
+1474,Healthcare.com,$1B,$114M,Hildred Capital Partners,United States,North America
+1475,The Zebra,$1B,$259M,Hedosophia,United States,North America
+1476,D2iq,$1B,$247M,"Koch Disruptive Technologies, T. Rowe Price",United States,North America
+1477,Moore Threads,$1B,$529M,"China Mobile Innovation Industry Fund, Hexie Health Insurance",China,Asia
+1478,Rothy's,$1B,$484M,Alpargatas,United States,North America
+1479,HMD,$1B,$330M,Ginko Ventures,Finland,Europe
+1480,Simply,$1B,$92M,Google Ventures,Israel,Asia
+1481,Vagaro,$1B,$163M,FTV Capital,United States,North America
+1482,Motorway,$1B,$276M,"ICONIQ Growth, Index Ventures",United Kingdom,Europe
+1483,Semios,$1B,$183M,Morningside Group,Canada,North America
+1484,Dubizzle Group,$1B,$479M,Affinity Partners,United Arab Emirates,Asia
+1485,Patpat,$1B,$721M,SoftBank Vision Fund,China,Asia
+1486,Momenta,$1B,$1B,General Motors,China,Asia
+1487,Injective,$1B,$57M,Pantera Capital,United States,North America
+1488,Place,$1B,$100M,Goldman Sachs Asset Management,United States,North America
+1489,ProLogium Technology,$1B,$537M,China Reform Health Management and Services Group Co Ltd,Taiwan,Asia
+1490,Fiture,$1B,$391M,"All-Stars Investment, BAI capital",China,Asia
+1491,JMGO,$1B,$377M,"IDG Capital, Oppo",China,Asia
+1492,GoGoX,$1B,$377M,"BOCOM International, Cyberport Macro Fund",Hong Kong,Asia
+1493,Cadence Solutions,$1B,$141M,Coatue,United States,North America
+1494,Scalapay,$1B,$443M,Poste Italiane,Italy,Europe
+1495,HAEGIN,$1B,$129M,,South Korea,Asia
+1496,Pet Circle,$1B,$125M,"Prysm Capital, TDM Growth Partners",Australia,Oceania
+1497,Fenbeitong,$1B,$292M,DST Global,China,Asia
+1498,MadeiraMadeira,$1B,$336M,"Dynamo, SOFTBANK Latin America Ventures",Brazil,South America
+1499,Kujiale,$1B,$235M,Hillhouse Investment,China,Asia
+1500,Jollychic,$1B,$96M,G42,China,Asia
+1501,Agile Robots AG,$1B,$270M,Foxconn Industrial Internet,Germany,Europe
+1502,Deeproute,$1B,$450M,Great Wall Motors,China,Asia
+1503,Orca Bio,$1B,$192M,Lightspeed Venture Partners,United States,North America
+1504,EcoFlow Tech,$1B,$105M,HongShan,United States,North America
+1505,OrCam Technologies,$1B,$86M,"Clal Insurance Enterprises Holdings, Meitav Investment House",Israel,Asia
+1506,Hujiang Education Technologies,$1B,$187M,China Minsheng Investment Group,China,Asia
+1507,Zhuanzhuan,$1B,$990M,Xiaomi,China,Asia
+1508,Pat McGrath Labs,$1B,$60M,Eurazeo,United States,North America
+1509,Maimai,$1B,$300M,DST Global,China,Asia
+1510,LMAX Group,$1B,$0,,United Kingdom,Europe
+1511,BeiBei,$1B,$224M,"New Horizon Capital, Northern Light Venture Capital",China,Asia
+1512,Numbrs,$1B,$109M,Saidler & Co.,Switzerland,Europe
+1513,KKW Beauty,$1B,$200M,Coty,United States,North America
+1514,Tezign,$1B,$51M,Temasek Holdings,China,Asia
+1515,Squirrel Ai Learning,$1B,$190M,,China,Asia
+1516,VNLIFE,$1B,$550M,"Dragoneer Investment Group, General Atlantic",Vietnam,Asia
+1517,Kakao Enterprise,$1B,$100M,Hy,South Korea,Asia
+1518,Interswitch,$1B,$321M,Visa,Nigeria,Africa
+1519,LinkDoc Technology,$1B,$253M,Alibaba Health Information Technology,China,Asia
+1520,Tresata,$1B,$51M,GCP Capital Partners,United States,North America
+1521,MiningLamp,$1B,$842M,Russia-China Investment Fund,China,Asia
+1522,Mia.com,$1B,$232M,Baidu,China,Asia
+1523,Bitfury Group,$1B,$170M,Korelya Capital,The Netherlands,Europe
+1524,Benlai,$1B,$349M,Mingde Holdings,China,Asia
+1525,DXY,$1B,$682M,Trustbridge Partners,China,Asia
+1526,Jushuitan Network Technology,$1B,$206M,Goldman Sachs,China,Asia
+1527,Contrast Security,$1B,$269M,Liberty Strategic Capital,United States,North America
+1528,Formation Bio,$1B,$528M,Andreessen Horowitz,United States,North America
+1529,58 Daojia,$1B,$300M,,China,Asia
+1530,YunQuNa,$1B,$257M,"CITIC Capital Holdings, Source Code Capital",China,Asia
+1531,Banma Network Technologies,$1B,$697M,SDIC Fund Management,China,Asia
+1532,Mofang Gongyu,$1B,$650M,Caisse de Depot et Placement du Quebec,China,Asia
+1533,Playco,$1B,$144M,Meta,Japan,Asia
+1534,Huikedu Group,$1B,$302M,China Oceanwide,China,Asia
+1535,Knowbox,$1B,$306M,Alibaba Group,China,Asia
+1536,Yidian Zixun,$1B,$151M,Long De Cheng Zhang Culture Communication,China,Asia
+1537,Qualia,$1B,$160M,Tiger Global Management,United States,North America
+1538,Zwift,$1B,$620M,Kohlberg Kravis Roberts,United States,North America
+1539,Arrail Dental Clinic,$1B,$400M,Temasek Holdings,China,Asia
+1540,Red Ventures,$1B,$250M,Silver Lake,United States,North America
+1541,Aircall,$1B,$238M,HubSpot Ventures,France,Europe
+1542,Orbbec,$1B,$200M,Ant Group,China,Asia
+1543,COSMOplat,$1B,$317M,Hongtai Fund,China,Asia
+1544,Xforceplus,$1B,$200M,Temasek Holdings,China,Asia
+1545,Mammoth Biosciences,$1B,$265M,Redmile Group,United States,North America
+1546,YH Global,$1B,$182M,"HNF, Yonghua Capital",China,Asia
+1547,Haomo.AI,$1B,$212M,Jiuzhi Ziben,China,Asia
+1548,Unisound,$1B,$361M,"China Internet Investment Fund, China Ministry of Finance",China,Asia
+1549,REEF,$1B,$2B,"Mubadala Capital Ventures, SoftBank",United States,North America
+1550,Capsule,$1B,$570M,Durable Capital Partners,United States,North America
+1551,Quantum Metric,$1B,$226M,Insight Partners,United States,North America
+1552,FXiaoKe,$1B,$388M,Eastern Bell Capital,China,Asia
+1553,SmartAsset,$1B,$161M,TTV Capital,United States,North America
+1554,Lookout,$1B,$282M,T. Rowe Price,United States,North America
+1555,Fractal,$1B,$685M,TPG Capital Asia,United States,North America
+1556,Yidao Yongche,$1B,$790M,China CITIC Bank,China,Asia
+1557,Xiaozhu.com,$1B,$572M,"Advantech Capital, YF Capital",China,Asia
+1558,Hyperchain Technologies,$1B,$250M,"E Fund Management Co.,LTD.",China,Asia
+1559,Moviebook,$1B,$302M,Yao Capital,China,Asia
+1560,Klook,$1B,$1B,Vitruvian Partners,Hong Kong,Asia
+1561,Anyscale,$1B,$259M,"Addition, Intel Capital",United States,North America
+1562,Newlink,$1B,$699M,Shandong Green Development Fund,China,Asia
+1563,Tenglong Holding Group,$1B,$4B,"Morgan Stanley Venture Partners, Nanshan Capital",China,Asia
+1564,APUS Group,$1B,$116M,"Chengwei Capital, Qiming Venture Partners",China,Asia
+1565,Tencent Trusted Doctors,$1B,$255M,"Gaw Capital Partners, HongShan",China,Asia
+1566,Orchard,$1B,$252M,Accomplice,United States,North America
+1567,Webull,$0,$0,,United States,North America
+1568,Univers,$0,$210M,HongShan,Singapore,Asia
+1569,AESC,$0,$582M,Nissan Motor,Japan,Asia

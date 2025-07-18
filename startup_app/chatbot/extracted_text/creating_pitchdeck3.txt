@@ -1,0 +1,514 @@
+
+
+--- Page 1 Text ---
+
+
+[Image OCR - Page 1 Image 1]:
+
+
+--- Page 2 Text ---
+
+
+--- Page 3 Text ---
+
+
+[Image OCR - Page 3 Image 1]:
+Jul-22
+
+ 
+
+             
+
+# of Bookings 1000 1200 1300 1500 1700 1750 2000
+
+Average GBV $250 $272 $301 $281 $290 $304 $311
+$280.000 $4
+
+% MoM Change 31% 20% 8% 17% 8% 17%
+
+Host Fees $20,000 $26,112 $31,304 $33,720 $39,440 $42,560 $49,760
+
+Guest Fees $30,000 $39,168 $46,956 $50,580 $59,160 $63,840 $74,640
+
+             
+
+           
+
+% MoM Change 31% 20% 8% 17% 8% 17%
+Payment Processing Fees $7,500 $9,792 $11,739 $12,645 $14,790 $15,960 $18,660
+Supplier Vetting $5,000 $5,500 $6,000 $7,000 $7,700 $8,200 $8,600
+Customer Support & Ops $2,000 $4,200 $4,700 $4,700 $4,900 $5,200 $6,500
+coGSs $14,500 $19,492 $22,439 $24,345 $27,390 $29,360 $33,760
+
+SSTOSS f $59,985 $95,646
+
+Gross Margin 71% 70% 71% 71% 72% 72% 73%
+
+Variable Local Labor $5,500 $6,200 $7,700 $8,500 $9,200 $9,900 $9,800
+Marketing Expense $10,000 $15,000 $15,000 $20,000 $20,000 $25,000 $25,000
+Sales Commissions $7,700 $8,200 $9,500 $10,200 $11,500 $13,200 $14,600
+Indirect Variable Costs $23,200 $29,400 $32,200 $38,700 $40,700 $48,100 $49,400
+
+         
+
+383
+
+     
+
+             
+
+           
+
+nae . 25% 25% 30% 25% 31% 27% 33%
+
+Contribution Margin
+Compensation & Benefits $89,500 $95,400 $100,500 $110,400 $125,000 $128,400 $143,000
+Software $5,000 $5,000 $7,500 $7,500 $9,000 $9,000 $9,000
+Travel & Entertainment $2,500 $3,000 $3,500 $3,500 $4,000 $4,200 $5,000
+Facilities Expenses $33,000 $33,000 $33,000 $33,000 $33,000 $33,000 $33,000
+Other G&A $800 $990 $1,000 $1,110 $1,200 $1,300 $1,250
+Other Expenses $130,800 $137,390 $145,500 $155,510 $172,200 $175,900 $191,250
+
+S121.002 4
+
+Interest, Taxes,
+
+Depreciation (Net) $0 $0 $0 $0 $0 $0 $0
+Net Income $421.002 S°B1.879
+SiG. 09G.acd $9.878.998 1a
+
+           
+
+Wlustrative example for a marketplace startup .
+onsumer
+
+
+[Image OCR - Page 3 Image 2]:
+
+
+--- Page 4 Text ---
+
+
+[Image OCR - Page 4 Image 1]:
+ 
+
+Beginning Users
++ New Users
+
+— Churned Users
+
+ 
+
+cing Users
+
+MoM Growth
+
+tllustrative example for a social app
+
+10,000
+
+1,500
+
+500
+
+14,000
+
+11,000
+
+2,200
+
+740
+
+ 
+
+13%
+
+12,460
+
+3,600
+
+890
+
+ 
+
+ 
+
+18,950
+
+7,860
+
+990
+
+ 
+
+25,820
+
+10,450
+
+1,350
+
+ 
+
+Jul-22
+
+ 
+
+cise Consumer
+
+
+[Image OCR - Page 4 Image 2]:
+
+
+[Image OCR - Page 4 Image 3]:
+ 
+
+   
+
+aT ey oy ed Mar-22 Es oy yd May-22 Jul-22
+Users acquired organically 1,000 1,500 2,000 2,500 3,000 3,500 4,000
+Users acquired via Facebook 200 210 300 250 350 400 410
+Facebook CAC $5 $3 $10 $8 $12 $13 $18
+Users acquired via Google ads 100 120 80 85 95 10 90
+Google Ads CAC $1 $1.50 $5 $3 $3.50 $4 $4.50
+Users acquired via influencers 50 150 200 15 80 65 20
+influencer CAC $10 $8 $5 $15 $12 $10 $18
+% of users acquired organically 74% 76% 78% 88% 85% 86% 88%
+% of users acquired paid 26% 24% 22% 12% 15% 14% 12%
+$10.46 $10.9 $15.68
+
+         
+
+           
+
+Illustrative example for a social app. es.
+onsumer
+
+
+[Image OCR - Page 4 Image 4]:
+
+
+--- Page 5 Text ---
+
+
+[Image OCR - Page 5 Image 1]:
+ 
+
+MAU
+
+Avg. Sessions/Mo
+
+Avg. Time/Session (min.)
+
+# of Users Creating Content
+% of MAUs
+
+# of Users Engaging in Chat
+% of MAUs
+
+DAU/MAU*
+
+WAU/MAU*
+
+“Average over the month
+Wlustrative example for a social app.
+
+ 
+
+10,000
+
+11.2
+
+3.8
+
+5,600
+
+56%
+
+37%
+
+58%
+
+ 
+
+12,500
+
+9.8
+
+9.2
+
+3,875
+
+31%
+
+7,375
+
+59%
+
+32%
+
+62%
+
+Mar-22
+
+15,400
+
+12.4
+
+9.4
+
+8,008
+
+52%
+
+38%
+
+66%
+
+Apr-22
+18,900
+13.5
+
+10.1
+7,938
+42%
+9,261
+49%
+34%
+
+61%
+
+area
+21,750
+134
+
+11.2
+8,265
+38%
+12,180
+56%
+
+37%
+
+60%
+
+aI
+
+27,800
+
+14.6
+
+16,124
+
+58%
+
+41%
+
+63%
+
+July-22
+
+ 
+
+30,400
+14.8
+124
+12,160
+40%
+18,544
+61%
+39%
+
+64%
+
+cise Consumer
+
+
+[Image OCR - Page 5 Image 2]:
+
+
+--- Page 6 Text ---
+
+
+[Image OCR - Page 6 Image 1]:
+ 
+
+iC
+
+ 
+
+User Retention (% still active)
+
+ 
+
+# of Users
+Jan-22 72 100% 82% 73% 64% 59% 41% 38%
+Feb-22 105 100% 21% 84% 77% 69% 55%
+Mar-22 178 100% 69% 64% 62% 60%
+Apr-22 201 100% 73% 68% 66%
+May-22 272 100% 84% 74%
+Jun-22 354 100% 88%
+Jul-22 406 100%
+
+Spend Retention
+
+ 
+
+Cohort MO Spend
+
+Jan-22 $864 100% 86% 76% 66% 61% 50% 48%
+Feb-22 $1,260 100% 93% 85% 78% 72% 60%
+
+Mar-22 $2,136 100% 73% 68% 65% 63%
+
+Apr-22 $2,412 100% 78% TA% 69%
+
+May-22 $3,264 100% 88% 76%
+
+Jun-22 $4,248 100% 91%
+
+Jul-22 $4,872 100%
+
+Consumer
+
+
+[Image OCR - Page 6 Image 2]:
+
+
+--- Page 7 Text ---
+
+
+[Image OCR - Page 7 Image 1]:
+ 
+
+Monthly Revenue/Customer
+Support Cost/Customer
+Credit Card Fees/Customer
+Hosting Fees/Customer
+Cost of Goods Sold/Cusomer
+Gross Profit/Customer
+Customer Acquisition Cost
+Month 1 Contribution Margin
+Future Month Contribution Margin
+Average Monthly Churn
+Customer Lifetime (Months)
+
+Customer Lifetime Value
+
+  
+
+LCA
+
+Ulustrative example for a consumer subscription startup.
+
+How to Calculate
+
+$10.00
+$0.50
+$0.30
+$0.10
+$0.90
+$9.10
+$25.00
+($15.90)
+$9.10
+10%
+10
+
+$66.00
+
+ 
+
+Direct Variable Costs on a Per Customer Basis
+
+Monthly Revenue—Cost of Goods Sold
+
+Gross Profit—Customer Acquisition Cost
+
+Gross Profit (Assuming no Other Variable Costs)
+
+Customer Lifetime = 1/Average Monthly Churn
+
+Month 1 Contribution Margin + Months 2—10 Contribution Margin (Future Month)
+
+ 
+
+cise Consumer
+
+
+[Image OCR - Page 7 Image 2]:
+
+
+--- Page 8 Text ---
+
+
+[Image OCR - Page 8 Image 1]:
+Payback Period How to Calculate
+
+ 
+
+Monthly Gross Profit/Customer $9.10 See previous example
+
+Customer Acquisition Cost $25.00
+
+    
+
+& Period OLE
+
+   
+
+cise Consumer
+
+
+[Image OCR - Page 8 Image 2]:
+
+
+[Image OCR - Page 8 Image 3]:
+Payback Period - Annual Plan
+Annual Revenue/Customer
+Cash Received at Month 1
+
+Gross Profit at Month 1
+
+Customer Acquisition Cost
+
+ 
+
+$100.00
+
+$100.00
+
+$91.00
+
+$25.00
+
+How to Calculate
+
+Assuming same 91% gross margin as monthly plan
+
+ 
+
+ 
+
+cis Consumer
+
+
+[Image OCR - Page 8 Image 4]:
+
+
+--- Page 9 Text ---
+
+
+--- Page 10 Text ---
+
+
+--- Page 11 Text ---
+
+
+--- Page 12 Text ---
+
+
+[Image OCR - Page 12 Image 1]:
+ 
+
+
+--- Page 13 Text ---

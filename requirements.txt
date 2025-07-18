@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+joblib
+scikit-learn
+xgboost
+pandas
+numpy
+langchain==0.1.14
+langchain-community
+transformers
+torch
+sentence-transformers
+faiss-cpu
+streamlit
