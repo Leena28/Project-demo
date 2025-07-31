@@ -1,15 +1,24 @@
-# Use an official Python runtime as a parent image
 FROM python:3.10-slim
 
-# Set working directory
 WORKDIR /app
 
-# Copy requirements and install dependencies
-COPY requirements.txt ./
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    git \
+    libgl1 \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt .
+RUN pip install --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy project files
 COPY . .
 
-# Run Streamlit app
-CMD ["streamlit", "run", "streamlit_app/app.py"]
+# Expose FastAPI and Streamlit ports
+EXPOSE 8000
+EXPOSE 8501
+
+# Change directory to where main.py is and run both servers
+CMD ["bash", "-c", "cd startup_app && uvicorn main:app --host 0.0.0.0 --port 8000 & streamlit run ../streamlit/app.py --server.port 8501"]
