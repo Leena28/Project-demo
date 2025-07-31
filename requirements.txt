@@ -1,15 +1,21 @@
 fastapi
 uvicorn
 pydantic
-joblib
-scikit-learn
-xgboost
+
+# For Valuation
+joblib==1.5.1
 pandas
 numpy
+xgboost==3.0.2
+
+# For Chatbot
 langchain==0.1.14
 langchain-community
 transformers
-torch
+torch  
 sentence-transformers
 faiss-cpu
+
+# For Frontend
 streamlit
+requests
