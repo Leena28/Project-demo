@@ -1,12 +1,12 @@
-# Ignore model cache folder (e.g., HuggingFace models)
+# we have to ignore this model cache folder
 model_cache/
 
-# Python cache files
+# python cache files
 __pycache__/
 *.py[cod]
 *.pyo
 
-# Environment files
+# environment files
 .env
 venv/
 *.env
@@ -18,7 +18,7 @@ Thumbs.db
 # Log files
 *.log
 
-# Jupyter Notebooks checkpoints
+# jupyter notebooks checkpoints
 .ipynb_checkpoints/
 
 # VSCode settings
