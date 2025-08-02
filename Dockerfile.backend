@@ -1,0 +1,34 @@
+# Dockerfile.backend
+FROM python:3.10-slim
+
+# suppress apt prompts
+ENV DEBIAN_FRONTEND=noninteractive
+
+WORKDIR /app
+
+# install system packages needed for building native extensions, plus GL for torch/transformers
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    git \
+    libgl1 \
+  && rm -rf /var/lib/apt/lists/*
+
+# copy only what we need for backend
+#COPY requirements.txt .
+COPY requirements.backend.txt ./
+RUN pip install --upgrade pip \
+ && pip install --no-cache-dir -r requirements.backend.txt
+
+#COPY startup_app ./startup_app
+COPY ./startup_app /app/startup_app
+
+EXPOSE 8000
+
+CMD ["uvicorn", "startup_app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+
+
+
+
+
+
+
