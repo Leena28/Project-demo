@@ -10,19 +10,17 @@ from startup_app.valuation_predictor.valuation import predict_valuation, load_ar
 
 app = FastAPI()
 
-# 🎯 Define request schema
 @app.on_event("startup")
 def startup_event():
     load_artifacts()
     
 class ValuationRequest(BaseModel):
-    amount: float           # raw amount (in millions or billions)
+    amount: float
     growth_rate: float
     industry: str
     country: str
-    unit: str = "millions"  # optional: 'millions' or 'billions'
+    unit: str = "millions"
 
-# 🔮 API endpoint
 @app.post("/predict-valuation")
 def get_valuation(data: ValuationRequest):
     try:
@@ -37,7 +35,6 @@ def get_valuation(data: ValuationRequest):
     except Exception as e:
         return {"error": str(e)}
 
-
 class ChatRequest(BaseModel):
     query: str
 
@@ -45,5 +42,3 @@ class ChatRequest(BaseModel):
 def ask_chatbot(request: ChatRequest):
     response = get_chatbot_answer(request.query)
     return {"response": response}
-
-
