@@ -6,7 +6,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 WORKDIR /app
 
-# install system packages needed for building native extensions, plus GL for torch/transformers
+# install system packages
 RUN apt-get update && apt-get install -y \
     build-essential \
     git \
