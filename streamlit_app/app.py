@@ -1,19 +1,15 @@
-# streamlit_app/app.py
-
 import streamlit as st
 import requests
+import os
 
-# Set FastAPI backend URL (change to your AWS public IP when deployed)
-API_URL = "http://localhost:8000"  # Replace with public IP in production
+API_URL = os.getenv("API_URL", "http://localhost:8000")
 
 st.set_page_config(page_title="Startup Assistant", layout="centered")
 
-# Sidebar navigation
 page = st.sidebar.selectbox("Choose Feature", ["💬 Chatbot", "📊 Valuation Predictor"])
 
-st.title("🚀 Startup Assistant App")
+st.title("💡🧠 AI Startup Assistant App")
 
-# --- Chatbot Section ---
 if page == "💬 Chatbot":
     st.subheader("💬 Ask Your Question")
 
@@ -29,14 +25,13 @@ if page == "💬 Chatbot":
                 else:
                     st.error("Error communicating with chatbot API.")
 
-# --- Valuation Predictor Section ---
 elif page == "📊 Valuation Predictor":
-    st.subheader("📊 Predict Your Startup Valuation")
+    st.subheader("📊 Predict Startup Valuation")
 
     amount = st.number_input("Funding Amount", min_value=0.0, format="%.2f")
     unit = st.selectbox("Unit", ["millions", "billions"])
     growth_rate = st.number_input("Growth Rate (%)", min_value=0.0, format="%.2f")
-    industry = st.text_input("Industry (e.g., Fintech, AI, SaaS)")
+    industry = st.text_input("Industry (Select-Fintech, AI, SaaS, Sustainability & energy, Health & biotech, Consumer & retail tech)")
     country = st.text_input("Country (e.g., USA, India)")
 
     if st.button("Predict Valuation"):
@@ -57,3 +52,14 @@ elif page == "📊 Valuation Predictor":
                     st.success(f"💰 Estimated Valuation: {result:.2f} {unit}")
                 else:
                     st.error("Error predicting valuation.")
+
+    st.markdown(
+        """
+        <div style="margin-top:2rem; font-size:0.8rem; color:gray;">
+        ⚙️ <strong>Data Sources & Assumptions</strong><br>
+        – Funding & valuation benchmarks aggregated from TechCrunch, Crunchbase, PitchBook, etc.<br>
+        – Industry growth rates set by category (e.g. deep tech/AI = 20%, aerospace = 7.8%).<br>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
