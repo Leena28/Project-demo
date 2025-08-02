@@ -20,5 +20,5 @@ COPY . .
 EXPOSE 8000
 EXPOSE 8501
 
-# Change directory to where main.py is and run both servers
+# changing directory where main.py is located and then run both servers
 CMD ["bash", "-c", "cd startup_app && uvicorn main:app --host 0.0.0.0 --port 8000 & streamlit run ../streamlit/app.py --server.port 8501"]
